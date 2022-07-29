@@ -1,0 +1,309 @@
+{
+  "ID": "ec74f812-cf50-415b-ba95-d4c59c8783f0",
+  "Version": "2.3.4",
+  "Name": "Effect",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 268,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "room/effect/effect1.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 127,
+            "Scale9OriginY": 96,
+            "Scale9Width": 133,
+            "Scale9Height": 100,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 14.8515,
+              "Y": 23.9561
+            },
+            "Scale": {
+              "ScaleX": 1.64,
+              "ScaleY": 1.64
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -178.6485,
+            "RightMargin": -208.3515,
+            "TopMargin": -169.9561,
+            "BottomMargin": -122.0439,
+            "Tag": 350,
+            "ActionTag": -1186700210,
+            "Size": {
+              "X": 387.0,
+              "Y": 292.0
+            },
+            "Name": "imgRotate_0",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "room/effect/effect3.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 127,
+            "Scale9OriginY": 96,
+            "Scale9Width": 129,
+            "Scale9Height": 192,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -186.5,
+            "RightMargin": -186.5,
+            "TopMargin": -186.5,
+            "BottomMargin": -186.5,
+            "Tag": 264,
+            "ActionTag": -1834778505,
+            "Size": {
+              "X": 373.0,
+              "Y": 373.0
+            },
+            "Name": "imgRotate",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "room/effect/gold.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 71,
+            "Scale9OriginY": 26,
+            "Scale9Width": 74,
+            "Scale9Height": 28,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 15.9833,
+              "Y": 64.8743
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -92.0167,
+            "RightMargin": -123.9833,
+            "TopMargin": -104.8743,
+            "BottomMargin": 24.8743,
+            "Tag": 265,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "room/effect/effect2.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 127,
+                "Scale9OriginY": 96,
+                "Scale9Width": 7,
+                "Scale9Height": 73,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 104.0,
+                  "Y": -20.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4815,
+                  "Y": -0.25
+                },
+                "PreSize": {
+                  "X": 1.2083,
+                  "Y": 3.3125
+                },
+                "LeftMargin": -26.5,
+                "RightMargin": -18.5,
+                "TopMargin": -32.5,
+                "BottomMargin": -152.5,
+                "Tag": 351,
+                "ActionTag": 1683811310,
+                "Size": {
+                  "X": 261.0,
+                  "Y": 265.0
+                },
+                "Name": "imgRotate_0_0",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "room/effect/topbg1.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 72,
+                "Scale9OriginY": 28,
+                "Scale9Width": 329,
+                "Scale9Height": 85,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 111.0357,
+                  "Y": -51.5156
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5141,
+                  "Y": -0.6439
+                },
+                "PreSize": {
+                  "X": 2.1898,
+                  "Y": 1.7625
+                },
+                "LeftMargin": -125.4643,
+                "RightMargin": -131.5356,
+                "TopMargin": 61.0156,
+                "BottomMargin": -122.0156,
+                "Tag": 267,
+                "ActionTag": -578503121,
+                "Size": {
+                  "X": 473.0,
+                  "Y": 141.0
+                },
+                "Name": "imgCoin",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "room/effect/calangsangtien.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 127,
+                "Scale9OriginY": 42,
+                "Scale9Width": 78,
+                "Scale9Height": 46,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 105.8658,
+                  "Y": -35.7486
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4901,
+                  "Y": -0.4469
+                },
+                "PreSize": {
+                  "X": 1.537,
+                  "Y": 1.625
+                },
+                "LeftMargin": -60.1342,
+                "RightMargin": -55.8658,
+                "TopMargin": 50.7486,
+                "BottomMargin": -100.7486,
+                "Tag": 266,
+                "ActionTag": 1071275561,
+                "Size": {
+                  "X": 332.0,
+                  "Y": 130.0
+                },
+                "Name": "imgText",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1626170522,
+            "Size": {
+              "X": 216.0,
+              "Y": 80.0
+            },
+            "Name": "imgGroup",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "room/effect/calangsangtien.png",
+        "room/effect/effect1.png",
+        "room/effect/effect2.png",
+        "room/effect/effect3.png",
+        "room/effect/gold.png",
+        "room/effect/topbg1.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

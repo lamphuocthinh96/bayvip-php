@@ -1,0 +1,635 @@
+{
+  "ID": "baeb9b9e-f551-430f-9c59-0b63dcc6edca",
+  "Version": "2.3.4",
+  "Name": "MauBinhRoom",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 205,
+        "Children": [
+          {
+            "ClipAble": false,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {},
+            "EndColor": {
+              "R": 150,
+              "G": 200
+            },
+            "ColorVector": {
+              "ScaleX": 0.0,
+              "ScaleY": -1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 3,
+            "Children": [
+              {
+                "FontSize": 16,
+                "ButtonText": "",
+                "TextColor": {},
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "common/btn8.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "common/btn6-1.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "common/btn6.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 28,
+                "Scale9OriginY": 28,
+                "Scale9Width": 74,
+                "Scale9Height": 17,
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1053.9612,
+                  "Y": 46.0341
+                },
+                "Scale": {
+                  "ScaleX": 0.88,
+                  "ScaleY": 0.88
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9278,
+                  "Y": 0.0719
+                },
+                "PreSize": {
+                  "X": 0.1144,
+                  "Y": 0.1141
+                },
+                "LeftMargin": 988.9612,
+                "RightMargin": 17.0388,
+                "TopMargin": 557.4659,
+                "BottomMargin": 9.5341,
+                "Tag": 837,
+                "Children": [
+                  {
+                    "FontSize": 20,
+                    "LabelText": "BẮT ĐẦU",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/UTMSwissBold.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "R": 39,
+                      "G": 39,
+                      "B": 39
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 65.0,
+                      "Y": 37.23
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.51
+                    },
+                    "PreSize": {
+                      "X": 0.5846,
+                      "Y": 0.4247
+                    },
+                    "LeftMargin": 27.0,
+                    "RightMargin": 27.0,
+                    "TopMargin": 20.27,
+                    "BottomMargin": 21.73,
+                    "Tag": 838,
+                    "ActionTag": -1198829664,
+                    "Size": {
+                      "X": 76.0,
+                      "Y": 31.0
+                    },
+                    "Name": "lblStart",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1854712236,
+                "ZOrder": 12,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 73.0
+                },
+                "Name": "btnStart",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "ClipAble": false,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {},
+                "EndColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "ColorVector": {
+                  "ScaleX": 0.0,
+                  "ScaleY": -1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 50654,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "room/ava-invite.png",
+                      "Plist": ""
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {},
+                    "EndColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "ColorVector": {
+                      "ScaleX": 0.0,
+                      "ScaleY": -1.0
+                    },
+                    "Scale9Width": 90,
+                    "Scale9Height": 91,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 269.57,
+                      "Y": 177.03
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2373,
+                      "Y": 0.2766
+                    },
+                    "PreSize": {
+                      "X": 0.1056,
+                      "Y": 0.2344
+                    },
+                    "LeftMargin": 209.57,
+                    "RightMargin": 806.43,
+                    "TopMargin": 387.97,
+                    "BottomMargin": 102.03,
+                    "Tag": 50874,
+                    "ActionTag": 1215532,
+                    "ZOrder": 6,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 150.0
+                    },
+                    "Name": "player_0",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "room/ava-invite.png",
+                      "Plist": ""
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {},
+                    "EndColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "ColorVector": {
+                      "ScaleX": 0.0,
+                      "ScaleY": -1.0
+                    },
+                    "Scale9Width": 90,
+                    "Scale9Height": 91,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1025.0609,
+                      "Y": 319.1921
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9023,
+                      "Y": 0.4987
+                    },
+                    "PreSize": {
+                      "X": 0.1056,
+                      "Y": 0.2344
+                    },
+                    "LeftMargin": 965.0609,
+                    "RightMargin": 50.9391,
+                    "TopMargin": 245.8079,
+                    "BottomMargin": 244.1921,
+                    "Tag": 50910,
+                    "ActionTag": 35590377,
+                    "ZOrder": 6,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 150.0
+                    },
+                    "Name": "player_1",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "room/ava-invite.png",
+                      "Plist": ""
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {},
+                    "EndColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "ColorVector": {
+                      "ScaleX": 0.0,
+                      "ScaleY": -1.0
+                    },
+                    "Scale9Width": 90,
+                    "Scale9Height": 91,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 832.656,
+                      "Y": 526.8321
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.733,
+                      "Y": 0.8232
+                    },
+                    "PreSize": {
+                      "X": 0.1056,
+                      "Y": 0.2344
+                    },
+                    "LeftMargin": 772.656,
+                    "RightMargin": 243.344,
+                    "TopMargin": 38.1679,
+                    "BottomMargin": 451.8321,
+                    "Tag": 50922,
+                    "ActionTag": 19270870,
+                    "ZOrder": 6,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 150.0
+                    },
+                    "Name": "player_2",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "room/ava-invite.png",
+                      "Plist": ""
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {},
+                    "EndColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "ColorVector": {
+                      "ScaleX": 0.0,
+                      "ScaleY": -1.0
+                    },
+                    "Scale9Width": 90,
+                    "Scale9Height": 91,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 108.1004,
+                      "Y": 398.2801
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0952,
+                      "Y": 0.6223
+                    },
+                    "PreSize": {
+                      "X": 0.1056,
+                      "Y": 0.2344
+                    },
+                    "LeftMargin": 48.1004,
+                    "RightMargin": 967.8996,
+                    "TopMargin": 166.7199,
+                    "BottomMargin": 323.2801,
+                    "Tag": 50934,
+                    "ActionTag": 63968331,
+                    "ZOrder": 6,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 150.0
+                    },
+                    "Name": "player_3",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": 17925048,
+                "Size": {
+                  "X": 1136.0,
+                  "Y": 640.0
+                },
+                "Name": "panelPlayer",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FontSize": 16,
+                "ButtonText": "",
+                "TextColor": {},
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "common/btn8.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "common/btn6-1.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "common/btn6.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 28,
+                "Scale9OriginY": 28,
+                "Scale9Width": 74,
+                "Scale9Height": 17,
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 930.2035,
+                  "Y": 45.7872
+                },
+                "Scale": {
+                  "ScaleX": 0.88,
+                  "ScaleY": 0.88
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8188,
+                  "Y": 0.0715
+                },
+                "PreSize": {
+                  "X": 0.1144,
+                  "Y": 0.1141
+                },
+                "LeftMargin": 865.2035,
+                "RightMargin": 140.7965,
+                "TopMargin": 557.7128,
+                "BottomMargin": 9.2872,
+                "Tag": 840,
+                "Children": [
+                  {
+                    "FontSize": 20,
+                    "LabelText": "XONG",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/UTMSwissBold.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "R": 39,
+                      "G": 39,
+                      "B": 39
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 65.0,
+                      "Y": 37.23
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.51
+                    },
+                    "PreSize": {
+                      "X": 0.3846,
+                      "Y": 0.4247
+                    },
+                    "LeftMargin": 40.0,
+                    "RightMargin": 40.0,
+                    "TopMargin": 20.27,
+                    "BottomMargin": 21.73,
+                    "Tag": 841,
+                    "ActionTag": 1817242456,
+                    "Size": {
+                      "X": 50.0,
+                      "Y": 31.0
+                    },
+                    "Name": "lblComplete",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 326140680,
+                "ZOrder": 12,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 73.0
+                },
+                "Name": "btnComplete",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "pnlMid",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "UiEntity2638090",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "common/btn6.png",
+        "common/btn6-1.png",
+        "common/btn8.png",
+        "fonts/UTMSwissBold.ttf",
+        "room/ava-invite.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

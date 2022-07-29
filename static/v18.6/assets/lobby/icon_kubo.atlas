@@ -1,0 +1,48 @@
+
+icon_kubo.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B
+  rotate: false
+  xy: 292, 435
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+K
+  rotate: false
+  xy: 356, 441
+  size: 53, 66
+  orig: 53, 66
+  offset: 0, 0
+  index: -1
+O
+  rotate: false
+  xy: 213, 144
+  size: 58, 74
+  orig: 58, 74
+  offset: 0, 0
+  index: -1
+U
+  rotate: false
+  xy: 292, 365
+  size: 58, 68
+  orig: 58, 68
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 220
+  size: 288, 287
+  orig: 288, 287
+  offset: 0, 0
+  index: -1
+character
+  rotate: false
+  xy: 2, 2
+  size: 209, 216
+  orig: 209, 216
+  offset: 0, 0
+  index: -1

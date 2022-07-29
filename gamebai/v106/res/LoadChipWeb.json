@@ -1,0 +1,1324 @@
+{
+  "ID": "d7564ad7-45f7-44c9-ae88-bf2a74482fa0",
+  "Version": "2.3.4",
+  "Name": "LoadChipWeb",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 93,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {},
+            "EndColor": {
+              "R": 150,
+              "G": 200
+            },
+            "ColorVector": {
+              "ScaleX": 0.0,
+              "ScaleY": -1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 0.59,
+              "ScaleY": 0.59
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.6901,
+              "Y": 1.6875
+            },
+            "LeftMargin": -392.0,
+            "RightMargin": -392.0,
+            "TopMargin": -220.0,
+            "BottomMargin": -220.0,
+            "Tag": 858,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "popup/bg.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 964.6951,
+                  "Y": 535.5461
+                },
+                "Scale": {
+                  "ScaleX": 0.86,
+                  "ScaleY": 0.86
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5024,
+                  "Y": 0.4959
+                },
+                "PreSize": {
+                  "X": 0.5516,
+                  "Y": 0.6685
+                },
+                "LeftMargin": 435.1951,
+                "RightMargin": 425.8049,
+                "TopMargin": 183.4539,
+                "BottomMargin": 174.5461,
+                "Tag": 1305,
+                "ActionTag": 2001644379,
+                "Size": {
+                  "X": 1059.0,
+                  "Y": 722.0
+                },
+                "Name": "bg_popup_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 20,
+                "ButtonText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/Arial Bold.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {},
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "popup/btn_dongy.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 10,
+                "Scale9OriginY": 19,
+                "Scale9Width": 241,
+                "Scale9Height": 77,
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1099.4072,
+                  "Y": 355.7995
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5726,
+                  "Y": 0.3294
+                },
+                "PreSize": {
+                  "X": 0.1359,
+                  "Y": 0.1065
+                },
+                "LeftMargin": 968.9072,
+                "RightMargin": 690.0928,
+                "TopMargin": 666.7005,
+                "BottomMargin": 298.2995,
+                "Tag": 860,
+                "ActionTag": 10584006,
+                "Size": {
+                  "X": 261.0,
+                  "Y": 115.0
+                },
+                "Name": "btnDongY",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 20,
+                "ButtonText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/Arial Bold.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {},
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "popup/btn_huybo.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 29,
+                "Scale9Width": 201,
+                "Scale9Height": 56,
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 840.3571,
+                  "Y": 355.7949
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4377,
+                  "Y": 0.3294
+                },
+                "PreSize": {
+                  "X": 0.1359,
+                  "Y": 0.1065
+                },
+                "LeftMargin": 709.8571,
+                "RightMargin": 949.1429,
+                "TopMargin": 666.7051,
+                "BottomMargin": 298.2949,
+                "Tag": 861,
+                "ActionTag": 29998725,
+                "Size": {
+                  "X": 261.0,
+                  "Y": 115.0
+                },
+                "Name": "btnHuyBo",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "BackGroundData": {
+                  "Type": "Normal",
+                  "Path": "dialog/line-napchip.png",
+                  "Plist": ""
+                },
+                "ProgressBarData": {
+                  "Type": "Normal",
+                  "Path": "dialog/line-napchip-inner.png",
+                  "Plist": ""
+                },
+                "BallNormalData": {
+                  "Type": "Normal",
+                  "Path": "dialog/bet-bar.png",
+                  "Plist": ""
+                },
+                "BallPressedData": {
+                  "Type": "Normal",
+                  "Path": "dialog/bet-bar.png",
+                  "Plist": ""
+                },
+                "BallDisabledData": {
+                  "Type": "Normal",
+                  "Path": "dialog/bet-bar.png",
+                  "Plist": ""
+                },
+                "PercentInfo": 100,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 956.3609,
+                  "Y": 536.6243
+                },
+                "Scale": {
+                  "ScaleX": 0.99,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4981,
+                  "Y": 0.4969
+                },
+                "PreSize": {
+                  "X": 0.2167,
+                  "Y": 0.0093
+                },
+                "LeftMargin": 748.3609,
+                "RightMargin": 755.6392,
+                "TopMargin": 538.3757,
+                "BottomMargin": 531.6243,
+                "Tag": 862,
+                "ActionTag": 11979515,
+                "Size": {
+                  "X": 416.0,
+                  "Y": 10.0
+                },
+                "Name": "sliderChip",
+                "ctype": "SliderObjectData"
+              },
+              {
+                "FontSize": 62,
+                "ButtonText": "",
+                "TextColor": {},
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "popup/btn-3.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 55,
+                "Scale9OriginY": 48,
+                "Scale9Width": 111,
+                "Scale9Height": 5,
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 670.4374,
+                  "Y": 534.2773
+                },
+                "Scale": {
+                  "ScaleX": 0.77,
+                  "ScaleY": 0.77
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3492,
+                  "Y": 0.4947
+                },
+                "PreSize": {
+                  "X": 0.0625,
+                  "Y": 0.0852
+                },
+                "LeftMargin": 610.4374,
+                "RightMargin": 1189.5626,
+                "TopMargin": 499.7227,
+                "BottomMargin": 488.2773,
+                "Tag": 863,
+                "Children": [
+                  {
+                    "FontSize": 50,
+                    "LabelText": "-",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/UTMSwissBold.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 60.312,
+                      "Y": 46.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.38,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5026,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.175,
+                      "Y": 0.7717
+                    },
+                    "LeftMargin": 49.812,
+                    "RightMargin": 49.188,
+                    "TopMargin": 10.5,
+                    "BottomMargin": 10.5,
+                    "Tag": 1799,
+                    "ActionTag": -72160124,
+                    "Size": {
+                      "X": 21.0,
+                      "Y": 71.0
+                    },
+                    "Name": "Text_43",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 62134683,
+                "Size": {
+                  "X": 120.0,
+                  "Y": 92.0
+                },
+                "Name": "btnMinus",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {},
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "popup/btn-3.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 55,
+                "Scale9OriginY": 44,
+                "Scale9Width": 111,
+                "Scale9Height": 9,
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1269.9926,
+                  "Y": 537.6254
+                },
+                "Scale": {
+                  "ScaleX": 0.77,
+                  "ScaleY": 0.77
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6615,
+                  "Y": 0.4978
+                },
+                "PreSize": {
+                  "X": 0.0625,
+                  "Y": 0.0852
+                },
+                "LeftMargin": 1209.9926,
+                "RightMargin": 590.0074,
+                "TopMargin": 496.3746,
+                "BottomMargin": 491.6254,
+                "Tag": 864,
+                "Children": [
+                  {
+                    "FontSize": 50,
+                    "LabelText": "+",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/UTMSwissBold.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 58.716,
+                      "Y": 46.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.4893,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.325,
+                      "Y": 0.7717
+                    },
+                    "LeftMargin": 39.216,
+                    "RightMargin": 41.784,
+                    "TopMargin": 10.5,
+                    "BottomMargin": 10.5,
+                    "Tag": 1800,
+                    "ActionTag": 457390890,
+                    "Size": {
+                      "X": 39.0,
+                      "Y": 71.0
+                    },
+                    "Name": "Text_43_0",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 3058037,
+                "Size": {
+                  "X": 120.0,
+                  "Y": 92.0
+                },
+                "Name": "btnPlus",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "Nhỏ nhất",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/UTMSwiss.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 670.5181,
+                  "Y": 625.9862
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3492,
+                  "Y": 0.5796
+                },
+                "PreSize": {
+                  "X": 0.0474,
+                  "Y": 0.0315
+                },
+                "LeftMargin": 625.0181,
+                "RightMargin": 1203.9819,
+                "TopMargin": 437.0138,
+                "BottomMargin": 608.9862,
+                "Tag": 865,
+                "ActionTag": 12969550,
+                "Size": {
+                  "X": 91.0,
+                  "Y": 34.0
+                },
+                "Name": "lblMin",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "Lớn nhất",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/UTMSwiss.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1273.8756,
+                  "Y": 625.9862
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6635,
+                  "Y": 0.5796
+                },
+                "PreSize": {
+                  "X": 0.0458,
+                  "Y": 0.0315
+                },
+                "LeftMargin": 1229.8756,
+                "RightMargin": 602.1244,
+                "TopMargin": 437.0138,
+                "BottomMargin": 608.9862,
+                "Tag": 866,
+                "ActionTag": 35965577,
+                "Size": {
+                  "X": 88.0,
+                  "Y": 34.0
+                },
+                "Name": "lblMax",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "0.000.000.000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/UTMSwiss.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.4596,
+                  "ScaleY": 0.3951
+                },
+                "Position": {
+                  "X": 662.6669,
+                  "Y": 595.9602
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 249,
+                  "G": 222,
+                  "B": 76
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3451,
+                  "Y": 0.5518
+                },
+                "PreSize": {
+                  "X": 0.0734,
+                  "Y": 0.0315
+                },
+                "LeftMargin": 597.8633,
+                "RightMargin": 1181.1367,
+                "TopMargin": 463.4732,
+                "BottomMargin": 582.5268,
+                "Tag": 868,
+                "ActionTag": 49072550,
+                "Size": {
+                  "X": 141.0,
+                  "Y": 34.0
+                },
+                "Name": "lblMinChip",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "0.000.000.000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/UTMSwiss.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1272.9697,
+                  "Y": 599.5269
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 249,
+                  "G": 222,
+                  "B": 76
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.663,
+                  "Y": 0.5551
+                },
+                "PreSize": {
+                  "X": 0.0734,
+                  "Y": 0.0315
+                },
+                "LeftMargin": 1202.4697,
+                "RightMargin": 576.5303,
+                "TopMargin": 463.4731,
+                "BottomMargin": 582.5269,
+                "Tag": 870,
+                "ActionTag": 36015203,
+                "Size": {
+                  "X": 141.0,
+                  "Y": 34.0
+                },
+                "Name": "lblMaxChip",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 35,
+                "LabelText": "0.000.000.000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/UTMSwiss.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 964.2775,
+                  "Y": 599.5269
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 249,
+                  "G": 222,
+                  "B": 76
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5022,
+                  "Y": 0.5551
+                },
+                "PreSize": {
+                  "X": 0.1036,
+                  "Y": 0.0435
+                },
+                "LeftMargin": 864.7775,
+                "RightMargin": 856.2224,
+                "TopMargin": 456.9731,
+                "BottomMargin": 576.0269,
+                "Tag": 872,
+                "ActionTag": 1148191,
+                "Size": {
+                  "X": 199.0,
+                  "Y": 47.0
+                },
+                "Name": "lblCurrentChip",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 35,
+                "LabelText": "Số",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/UTMSwiss.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 751.722,
+                  "Y": 693.8425
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3915,
+                  "Y": 0.6424
+                },
+                "PreSize": {
+                  "X": 0.0208,
+                  "Y": 0.0435
+                },
+                "LeftMargin": 731.722,
+                "RightMargin": 1148.2781,
+                "TopMargin": 362.6575,
+                "BottomMargin": 670.3425,
+                "Tag": 874,
+                "ActionTag": 64150695,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 47.0
+                },
+                "Name": "lbl",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "Tự động nạp thêm số chip mang vào khi\nkhông đủ điều kiện ở lại bàn",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/UTMSwiss.ttf",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 986.499,
+                  "Y": 472.5378
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5138,
+                  "Y": 0.4375
+                },
+                "PreSize": {
+                  "X": 0.2047,
+                  "Y": 0.063
+                },
+                "LeftMargin": 789.999,
+                "RightMargin": 737.001,
+                "TopMargin": 573.4622,
+                "BottomMargin": 438.5378,
+                "Tag": 876,
+                "ActionTag": 65207966,
+                "Size": {
+                  "X": 393.0,
+                  "Y": 68.0
+                },
+                "Name": "lblTuDongNap",
+                "ctype": "TextObjectData"
+              },
+              {
+                "CheckedState": true,
+                "NormalBackFileData": {
+                  "Type": "Normal",
+                  "Path": "popup/uncheck.png",
+                  "Plist": ""
+                },
+                "NodeNormalFileData": {
+                  "Type": "Normal",
+                  "Path": "popup/check.png",
+                  "Plist": ""
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 764.042,
+                  "Y": 469.9964
+                },
+                "Scale": {
+                  "ScaleX": 1.5,
+                  "ScaleY": 1.5
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3979,
+                  "Y": 0.4352
+                },
+                "PreSize": {
+                  "X": 0.0146,
+                  "Y": 0.025
+                },
+                "LeftMargin": 750.042,
+                "RightMargin": 1141.958,
+                "TopMargin": 596.5036,
+                "BottomMargin": 456.4964,
+                "Tag": 879,
+                "ActionTag": 919852,
+                "Size": {
+                  "X": 28.0,
+                  "Y": 27.0
+                },
+                "Name": "cbxNapChip",
+                "ctype": "CheckBoxObjectData"
+              },
+              {
+                "FontSize": 35,
+                "LabelText": "BAY",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/UTMSwiss.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 811.0917,
+                  "Y": 693.8442
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 249,
+                  "G": 222,
+                  "B": 76
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4224,
+                  "Y": 0.6424
+                },
+                "PreSize": {
+                  "X": 0.0312,
+                  "Y": 0.0435
+                },
+                "LeftMargin": 781.0917,
+                "RightMargin": 1078.9083,
+                "TopMargin": 362.6558,
+                "BottomMargin": 670.3442,
+                "Tag": 1306,
+                "ActionTag": 1334250965,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 47.0
+                },
+                "Name": "lblMyMoney_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 35,
+                "LabelText": "của bạn: ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/UTMSwiss.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 905.4116,
+                  "Y": 693.8429
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4716,
+                  "Y": 0.6424
+                },
+                "PreSize": {
+                  "X": 0.0599,
+                  "Y": 0.0435
+                },
+                "LeftMargin": 847.9116,
+                "RightMargin": 957.0884,
+                "TopMargin": 362.6571,
+                "BottomMargin": 670.3429,
+                "Tag": 1307,
+                "ActionTag": 973740165,
+                "Size": {
+                  "X": 115.0,
+                  "Y": 47.0
+                },
+                "Name": "lblMyMoney_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 35,
+                "LabelText": "0.000.000.000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/UTMSwiss.ttf",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 976.4605,
+                  "Y": 693.8429
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 249,
+                  "G": 222,
+                  "B": 76
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5086,
+                  "Y": 0.6424
+                },
+                "PreSize": {
+                  "X": 0.1036,
+                  "Y": 0.0435
+                },
+                "LeftMargin": 976.4605,
+                "RightMargin": 744.5396,
+                "TopMargin": 362.6571,
+                "BottomMargin": 670.3429,
+                "Tag": 1308,
+                "ActionTag": -602684269,
+                "Size": {
+                  "X": 199.0,
+                  "Y": 47.0
+                },
+                "Name": "lblMyMoney",
+                "ctype": "TextObjectData"
+              },
+              {
+                "CheckedState": true,
+                "NormalBackFileData": {
+                  "Type": "Normal",
+                  "Path": "popup/bg_titlle.png",
+                  "Plist": ""
+                },
+                "NodeNormalFileData": {
+                  "Type": "Normal",
+                  "Path": "popup/bg_titlle.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 960.576,
+                  "Y": 780.1969
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5003,
+                  "Y": 0.7224
+                },
+                "PreSize": {
+                  "X": 0.2078,
+                  "Y": 0.0704
+                },
+                "LeftMargin": 761.076,
+                "RightMargin": 759.9241,
+                "TopMargin": 261.8031,
+                "BottomMargin": 742.1969,
+                "Tag": 1429,
+                "Children": [
+                  {
+                    "FontSize": 42,
+                    "LabelText": "Nạp chip",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/UTMSwissBold.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 51,
+                      "G": 0,
+                      "B": 48
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 198.303,
+                      "Y": 38.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.497,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.391,
+                      "Y": 0.7895
+                    },
+                    "LeftMargin": 120.303,
+                    "RightMargin": 122.697,
+                    "TopMargin": 8.0,
+                    "BottomMargin": 8.0,
+                    "Tag": 1973,
+                    "ActionTag": 1168722858,
+                    "Size": {
+                      "X": 156.0,
+                      "Y": 60.0
+                    },
+                    "Name": "lbl",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1028014123,
+                "Size": {
+                  "X": 399.0,
+                  "Y": 76.0
+                },
+                "Name": "chkChoiRik",
+                "ctype": "CheckBoxObjectData"
+              }
+            ],
+            "ActionTag": -1,
+            "Size": {
+              "X": 1920.0,
+              "Y": 1080.0
+            },
+            "Name": "pnlMid",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "UiEntity41679865",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "dialog/bet-bar.png",
+        "dialog/line-napchip.png",
+        "dialog/line-napchip-inner.png",
+        "fonts/Arial Bold.ttf",
+        "fonts/UTMSwiss.ttf",
+        "fonts/UTMSwissBold.ttf",
+        "popup/bg.png",
+        "popup/bg_titlle.png",
+        "popup/btn_dongy.png",
+        "popup/btn_huybo.png",
+        "popup/btn-3.png",
+        "popup/check.png",
+        "popup/uncheck.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

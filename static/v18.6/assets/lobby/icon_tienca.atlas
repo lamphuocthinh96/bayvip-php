@@ -1,0 +1,55 @@
+
+icon_tienca.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7
+  rotate: false
+  xy: 307, 16
+  size: 162, 162
+  orig: 162, 162
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 609, 252
+  size: 82, 72
+  orig: 82, 72
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 846, 389
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+bg
+  rotate: true
+  xy: 2, 180
+  size: 275, 605
+  orig: 275, 605
+  offset: 0, 0
+  index: -1
+bg_jackpot
+  rotate: false
+  xy: 609, 326
+  size: 235, 129
+  orig: 235, 129
+  offset: 0, 0
+  index: -1
+bongbong
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 2, 20
+  size: 303, 158
+  orig: 303, 158
+  offset: 0, 0
+  index: -1

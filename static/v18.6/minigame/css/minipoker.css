@@ -1,0 +1,243 @@
+#wrap_minipoker {
+    position: absolute;
+    top: 98px;
+    left: 500px;
+    font-size: 11px;
+    z-index: 1;
+}
+
+#wrap_minipoker.active {
+    z-index: 2;
+}
+
+#wrap_minipoker .error_msg {
+    position: absolute;
+    width: 560px;
+    height: 49px;
+    left: 121px;
+    top: 317px;
+    line-height: 48px;
+    background-color: rgba(29, 16, 18, 0);
+    background-image: -webkit-linear-gradient(left, rgba(29, 16, 18, 0) 0%, rgba(29, 16, 18, 0.6) 5%, rgba(29, 16, 18, 0.6) 95%, rgba(29, 16, 18, 0) 100%);
+    background-image: linear-gradient(to right, rgba(29, 16, 18, 0) 0%, rgba(29, 16, 18, 0.8) 20%, rgba(29, 16, 18, 0.8) 80%, rgba(29, 16, 17, 0) 100%);
+    font-size: 22px;
+    text-align: center;
+    color: #ff1100;
+    z-index: 99991;
+    display: none;
+}
+
+#wrap_minipoker .error_msg:before {
+    width: 344px;
+    height: 2px;
+    background-color: rgba(29, 16, 18, 0);
+    background-image: -webkit-linear-gradient(left, rgba(29, 16, 18, 0) 0%, hsla(212, 55%, 57%, 0.8) 40%, hsla(212, 55%, 57%, 0.8) 60%, rgba(29, 16, 17, 0) 100%);
+    background-image: linear-gradient(to right, rgba(29, 16, 18, 0) 0%, hsla(212, 55%, 57%, 0.8) 40%, hsla(212, 55%, 57%, 0.8) 60%, rgba(29, 16, 17, 0) 100%);
+    position: absolute;
+    content: '';
+    left: 0px;
+    top: 0px;
+}
+
+#wrap_minipoker .error_msg:after {
+    width: 344px;
+    height: 2px;
+    background-color: rgba(29, 16, 18, 0);
+    background-image: -webkit-linear-gradient(left, rgba(29, 16, 18, 0) 0%, hsla(212, 55%, 57%, 0.8) 40%, hsla(212, 55%, 57%, 0.8) 60%, rgba(29, 16, 17, 0) 100%);
+    background-image: linear-gradient(to right, rgba(29, 16, 18, 0) 0%, hsla(212, 55%, 57%, 0.8) 40%, hsla(212, 55%, 57%, 0.8) 60%, rgba(29, 16, 17, 0) 100%);
+    position: absolute;
+    content: '';
+    left: 0px;
+    bottom: 0px;
+}
+
+.minipoker_game_v2 {
+    position: absolute;
+    z-index: 1;
+    top: 80px;
+    pointer-events: none;
+}
+
+.minipoker_game_v2:after {
+    position: absolute;
+    z-index: -1;
+    top: -5px;
+    background: url(../images/videopoker/bg.png) no-repeat;
+    width: 835px;
+    height: 428px;
+    content: '';
+    left: -9px;
+}
+
+.minipoker_game_v2x5 {
+    position: absolute;
+    display: none;
+}
+
+.minipoker_game_v2x5:after {
+    position: absolute;
+    z-index: -1;
+    top: 14px;
+    background: url(../images/videopoker/bg2.png) no-repeat;
+    width: 519px;
+    height: 604px;
+    content: '';
+    left: 21px;
+}
+
+.minipoker_title {
+    position: absolute;
+    background: url(../images/videopoker/titleminipoker.png) no-repeat;
+    width: 505px;
+    height: 187px;
+    z-index: -1;
+    left: 209px;
+    top: -20px;
+}
+
+.minipoker_rect {
+    position: absolute;
+    left: 148px;
+    top: -110px;
+}
+
+.minipoker_rect .rect1 {
+    width: 279px;
+    height: 96px;
+    position: absolute;
+    background: rgb(0 0 0 / 0.005);
+    left: 217px;
+    top: 110px;
+    border-top-right-radius: 78px;
+}
+
+.minipoker_rect .rect2 {
+    width: 260px;
+    height: 250px;
+    position: absolute;
+    background: rgb(0 0 0 / 0.005);
+    left: -8px;
+    top: 109px;
+    border-radius: 200px;
+}
+
+.minipoker_rect .rect3 {
+    width: 779px;
+    height: 391px;
+    position: absolute;
+    background: rgb(0 0 0 / 0.005);
+    left: -138px;
+    top: 202px;
+    border-radius: 292px;
+}
+
+#wrap_minipoker .mini_close {
+    left: 654px;
+    top: 68px;
+    z-index: 2;
+}
+
+#wrap_minipoker .mini_help {
+    left: 15px;
+    top: 121px;
+    z-index: 2;
+}
+
+#wrap_minipoker .mini_history {
+    left: 70px;
+    top: 68px;
+    z-index: 2;
+}
+
+#wrap_minipoker .mini_rank {
+    left: -10px;
+    top: 193px;
+    z-index: 2;
+}
+
+#wrap_minipoker .room100 {
+    left: 71px;
+    top: 380px;
+    z-index: 2;
+}
+
+#wrap_minipoker .room1K {
+    left: 148px;
+    top: 380px;
+    z-index: 2;
+}
+
+#wrap_minipoker .room10K {
+    left: 299px;
+    top: 380px;
+    z-index: 2;
+}
+
+#wrap_minipoker .room5K {
+    left: 224px;
+    top: 380px;
+    z-index: 2;
+}
+
+#wrap_minipoker .btn_spinX5 {
+    left: 572px;
+    top: 380px;
+    z-index: 2;
+}
+
+#wrap_minipoker .btn_sieutoc {
+    left: 439px;
+    top: 380px;
+    z-index: 2;
+}
+
+#wrap_minipoker .btn_rolate {
+    position: absolute;
+    left: 771px;
+    top: 160px;
+    z-index: 2;
+    width: 57px;
+    height: 179px;
+    background: rgb(0 0 0 / 0.005);
+    border-radius: 39px;
+}
+
+#wrap_minipoker .btn_checkAuto {
+    background: url(../../assets/minipoker_asset.png) no-repeat;
+    background-position: -41px 0px;
+    width: 41px;
+    height: 41px;
+    position: absolute;
+    left: 384px;
+    top: 392px;
+    z-index: 2;
+}
+
+#wrap_minipoker .btn_checkAuto.active {
+    background-position: -0px 0px;
+}
+
+#jackMinipoker {
+    font-size: 28px;
+    position: absolute;
+    color: #ff0;
+    left: 278px;
+    top: 115px;
+    width: 233px;
+    padding: 0px 44px;
+    z-index: 1;
+    text-align: left;
+}
+
+#jackMinipoker:before {
+    content: '';
+    background: url(../../assets/icon_B.png) no-repeat;
+    width: 75px;
+    height: 79px;
+    position: absolute;
+    background-size: 72%;
+    -webkit-background-size: 72%;
+    -moz-background-size: 72%;
+    left: -10px;
+    top: -6px;
+}

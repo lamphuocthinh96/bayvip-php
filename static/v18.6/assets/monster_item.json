@@ -1,0 +1,95 @@
+{"frames": {
+
+"mini_monster_item_1.png":
+{
+	"frame": {"x":0,"y":0,"w":101,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":88},
+	"sourceSize": {"w":101,"h":88}
+},
+"mini_monster_item_3.png":
+{
+	"frame": {"x":101,"y":0,"w":101,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":88},
+	"sourceSize": {"w":101,"h":88}
+},
+"mini_monster_item_4.png":
+{
+	"frame": {"x":202,"y":0,"w":101,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":88},
+	"sourceSize": {"w":101,"h":88}
+},
+"mini_monster_item_5.png":
+{
+	"frame": {"x":303,"y":0,"w":101,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":88},
+	"sourceSize": {"w":101,"h":88}
+},
+"mini_monster_item_6.png":
+{
+	"frame": {"x":404,"y":0,"w":101,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":88},
+	"sourceSize": {"w":101,"h":88}
+},
+"mini_monster_item_7.png":
+{
+	"frame": {"x":505,"y":0,"w":101,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":88},
+	"sourceSize": {"w":101,"h":88}
+},
+"mini_monster_item_8.png":
+{
+	"frame": {"x":606,"y":0,"w":101,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":88},
+	"sourceSize": {"w":101,"h":88}
+},
+"mini_monster_item_9.png":
+{
+	"frame": {"x":707,"y":0,"w":101,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":88},
+	"sourceSize": {"w":101,"h":88}
+},
+"mini_monster_item_10.png":
+{
+	"frame": {"x":808,"y":0,"w":101,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":88},
+	"sourceSize": {"w":101,"h":88}
+},
+"mini_monster_item_bg_item.png":
+{
+	"frame": {"x":909,"y":0,"w":101,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":88},
+	"sourceSize": {"w":101,"h":88}
+}},
+"animations": {
+	"mini_monster_item": ["mini_monster_item_1.png","mini_monster_item_3.png","mini_monster_item_4.png","mini_monster_item_5.png","mini_monster_item_6.png","mini_monster_item_7.png","mini_monster_item_8.png","mini_monster_item_9.png","mini_monster_item_10.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "monster_item.png",
+	"format": "RGBA8888",
+	"size": {"w":1010,"h":88},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ac8fb3b835c5160a52c542465d050b8d:55917f6476245fc6d2e4fdaf4001d313:99ee49dcc8907f12b8439f6389efdd72$"
+}
+}

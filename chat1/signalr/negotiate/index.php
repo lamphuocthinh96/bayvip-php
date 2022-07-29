@@ -1,0 +1,5 @@
+<?php
+
+$callback = $_GET['callback'];
+
+die($callback . '({"Url":"/chat1/signalr","ConnectionToken":"ZvfeQ+fJRs/R+Yv5R8CVeQdKlA5K9VYdLr5Hl+a6jyxocsnt9se/KqZ+Unk3aBujzvEybB/oP1xXR6gsNsCZUmgbWzTUlZnoM3cNFFrmt2V6IKztvrTzObBU4weAvui4ltgC29W5oVssJDwjMASsqgp30ZzaSpB7cuH80zR8btUylTQAg8gRfHYOm6OmUmPq+U6It2+XLhTSGIv9BRDEb+DJNPPxD7Da4zqUnUaDgzgytTxBy44eMgzs0ww8Pk7K5ST8qdWZLq6PUuqxoVPwOlUwmGJAfEuXA1i45w2wPT5MIl/C0XiL7H9YhBhstaJyQkp9Tk7QiWXbZVk0NTKPf+2fAVWfVZjdiS6Et9IQKZ5AozYz4jYZTLvPrvmuAYfBtfydMaimIIX2gnxIBqr+f4HVFC83FkuUrosXDzW2JR/FKHg5Cbjns+Kj1F/fiMua3Ccx+S8oljojVQthiEUI/UQc7T5L6AWUB7JrZZURNTh1kacQvDF1A3mynTJ5wyS28CDCHkV5vnRZMoT+pBmzRHMTyAY=","ConnectionId":"afaefbce-291b-4f18-9491-ad9f2ffcb99d","KeepAliveTimeout":40.0,"DisconnectTimeout":60.0,"ConnectionTimeout":110.0,"TryWebSockets":true,"ProtocolVersion":"1.5","TransportConnectTimeout":5.0,"LongPollDelay":0.0});');

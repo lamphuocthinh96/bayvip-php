@@ -1,0 +1,96 @@
+{
+"skeleton": { "hash": "x+N9pEa8Ce+236zsPwGADn5lZ0w", "spine": "3.7.94", "width": 286, "height": 280, "images": "", "audio": "" },
+"bones": [
+	{ "name": "root", "x": 1.3 },
+	{ "name": "text", "parent": "root", "x": 7.01, "y": -80.91 },
+	{ "name": "text2", "parent": "root", "x": 7.01, "y": -80.91 },
+	{ "name": "text3", "parent": "root", "x": 7.01, "y": -80.91 }
+],
+"slots": [
+	{ "name": "bg", "bone": "root", "attachment": "bg" },
+	{ "name": "tag", "bone": "root" },
+	{ "name": "text", "bone": "text", "attachment": "text" },
+	{ "name": "text2", "bone": "text2", "attachment": "text", "blend": "additive" },
+	{ "name": "text3", "bone": "text3", "attachment": "text", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"bg": {
+			"bg": { "x": 0.69, "y": -3.29, "width": 286, "height": 280 }
+		},
+		"text": {
+			"text": { "x": -6.33, "y": 9.37, "width": 166, "height": 90 }
+		},
+		"text2": {
+			"text": { "x": -6.33, "y": 9.37, "width": 166, "height": 90 }
+		},
+		"text3": {
+			"text": { "x": -6.33, "y": 9.37, "width": 166, "height": 90 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"text2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{
+						"time": 0.6667,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.8333, "color": "ffffff84", "curve": "stepped" },
+					{
+						"time": 1,
+						"color": "ffffff84",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.2333, "color": "ffffff00" }
+				]
+			},
+			"text3": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{
+						"time": 0.8333,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1, "color": "ffffff84", "curve": "stepped" },
+					{
+						"time": 1.1667,
+						"color": "ffffff84",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.4333, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"text2": {
+				"scale": [
+					{
+						"time": 0.6667,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.2333, "x": 1.311, "y": 1.311 }
+				]
+			},
+			"text3": {
+				"scale": [
+					{
+						"time": 0.8333,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.4333, "x": 1.311, "y": 1.311 }
+				]
+			}
+		}
+	}
+}
+}

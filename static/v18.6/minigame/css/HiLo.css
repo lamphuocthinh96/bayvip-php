@@ -1,0 +1,465 @@
+@charset "utf-8";
+#HiLo {
+    position: absolute;
+    left: 100px;
+    top: 133px;
+    color: #fff;
+    display: block;
+    z-index: 1;
+}
+
+#HiLo.active {
+    z-index: 2;
+}
+
+#HiLo .high-low {
+    display: block;
+    position: relative;
+}
+
+#HiLo .typegame {
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    left: 161px;
+    top: 31px;
+    z-index: 1;
+    float: right;
+}
+
+#HiLo .typegame a {
+    position: relative;
+    height: 30px;
+    width: 30px;
+    display: none;
+}
+
+#HiLo #HiLoContainer {
+    display: block;
+    clear: both;
+    content: '';
+}
+
+#HiLo .hilo_game_v2 {
+    position: absolute;
+    pointer-events: none;
+}
+
+#HiLo .hilo_game_v2:after {
+    position: absolute;
+    z-index: -1;
+    top: 116px;
+    background: url(../images/HiLo/bg.png) no-repeat;
+    width: 828px;
+    height: 441px;
+    content: '';
+    left: -5px;
+}
+
+#HiLo .hilo_title {
+    position: absolute;
+    left: 148px;
+    top: 50px;
+    background: url(../images/HiLo/titlehilo.png) no-repeat;
+    width: 463px;
+    height: 114px;
+    z-index: -1;
+}
+
+#jackHilo {
+    font-size: 28px;
+    position: absolute;
+    color: #ff0;
+    left: 434px;
+    top: 147px;
+    width: 233px;
+    padding: 0px 44px;
+    z-index: 2;
+    text-align: left;
+}
+
+#jackHilo:before {
+    content: '';
+    background: url(../../assets/icon_B.png) no-repeat;
+    width: 75px;
+    height: 79px;
+    position: absolute;
+    background-size: 70%%;
+    -webkit-background-size: 70%;
+    -moz-background-size: 70%;
+    left: -10px;
+    top: -5px;
+}
+
+#hilosessionID {
+    position: absolute;
+    left: 572px;
+    top: 203px;
+    color: #fff;
+    font-size: 22px;
+    font-weight: bold;
+    width: 165px;
+    text-align: center;
+}
+
+#hiloTimeId {
+    position: absolute;
+    left: 572px;
+    top: 243px;
+    color: #fff;
+    font-size: 26px;
+    font-weight: bold;
+    width: 165px;
+    text-align: center;
+}
+
+#moneyForHigherId {
+    position: absolute;
+    left: 331px;
+    top: 208px;
+    color: #ff0;
+    font-size: 26px;
+    font-weight: bold;
+    width: 165px;
+    text-align: center;
+}
+
+#moneyForLowerId {
+    position: absolute;
+    left: 331px;
+    top: 429px;
+    color: #ff0;
+    font-size: 26px;
+    font-weight: bold;
+    width: 165px;
+    text-align: center;
+}
+
+#priceAwardId {
+    position: absolute;
+    left: 331px;
+    top: 316px;
+    color: #ff0;
+    font-size: 26px;
+    font-weight: bold;
+    width: 165px;
+    text-align: center;
+}
+
+#HiLo .list-card {
+    clear: both;
+    position: absolute;
+    top: 506px;
+    left: 141px;
+    width: 529px;
+    height: 37px;
+    font-size: 22px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+
+.use-rik * {
+    color: #ffe558;
+}
+
+#HiLo .list-card li {
+    display: inline;
+    float: left;
+    line-height: 33px;
+    padding: 0 3px;
+    margin: 0;
+    color: white;
+    font-family: Roboto-Regular, Roboto, Arial, sans-serif;
+    font-weight: bold;
+}
+
+#HiLo .list-card li span {
+    display: inline-block;
+    height: 22px;
+    width: 25px;
+    position: relative;
+    top: 3px;
+    background-size: 20px;
+}
+
+#HiLo .message {
+    position: absolute;
+    width: 537px;
+    height: 52px;
+    line-height: 52px;
+    left: 137px;
+    top: 493px;
+    background-color: rgba(29, 16, 18, 0);
+    background-image: -webkit-linear-gradient(left, rgba(29, 16, 18, 0) 0%, rgba(29, 16, 18, 0.6) 5%, rgba(29, 16, 18, 0.6) 95%, rgba(29, 16, 18, 0) 100%);
+    background-image: linear-gradient(to right, rgba(29, 16, 18, 0) 0%, rgba(29, 16, 18, 0.8) 20%, rgba(29, 16, 18, 0.8) 80%, rgba(29, 16, 17, 0) 100%);
+    font-size: 21px;
+    text-align: center;
+    color: #ffcd37;
+    font-family: roboto-bold;
+    z-index: 99991;
+}
+
+#HiLo .message:before {
+    width: 430px;
+    height: 2px;
+    background-color: rgba(29, 16, 18, 0);
+    background-image: -webkit-linear-gradient(left, rgba(29, 16, 18, 0) 0%, hsla(212, 55%, 57%, 0.8) 40%, hsla(212, 55%, 57%, 0.8) 60%, rgba(29, 16, 17, 0) 100%);
+    background-image: linear-gradient(to right, rgba(29, 16, 18, 0) 0%, hsla(212, 55%, 57%, 0.8) 40%, hsla(212, 55%, 57%, 0.8) 60%, rgba(29, 16, 17, 0) 100%);
+    position: absolute;
+    content: '';
+    left: 0px;
+    top: 0px;
+}
+
+#HiLo .message:after {
+    width: 430px;
+    height: 2px;
+    background-color: rgba(29, 16, 18, 0);
+    background-image: -webkit-linear-gradient(left, rgba(29, 16, 18, 0) 0%, hsla(212, 55%, 57%, 0.8) 40%, hsla(212, 55%, 57%, 0.8) 60%, rgba(29, 16, 17, 0) 100%);
+    background-image: linear-gradient(to right, rgba(29, 16, 18, 0) 0%, hsla(212, 55%, 57%, 0.8) 40%, hsla(212, 55%, 57%, 0.8) 60%, rgba(29, 16, 17, 0) 100%);
+    position: absolute;
+    content: '';
+    left: 0px;
+    bottom: 0px;
+}
+
+#HiLo span.coz-ic {
+    background: url(../images/HiLo/CO.png) no-repeat center center;
+}
+
+#HiLo span.zo-ic {
+    background: url(../images/HiLo/zo.png) no-repeat center center;
+}
+
+#HiLo span.tez-ic {
+    background: url(../images/HiLo/tep.png) no-repeat center center
+}
+
+#HiLo span.biz-ic {
+    background: url(../images/HiLo/bich.png) no-repeat center center;
+}
+
+#HiLo.stargame .list-card li span {
+    display: inline-block;
+    height: 14px;
+    width: 17px;
+    position: relative;
+    top: 3px;
+}
+
+@-webkit-keyframes opacity50 {
+    50% {
+        opacity: 1
+    }
+}
+
+@-moz-keyframes opacity50 {
+    50% {
+        opacity: 1
+    }
+}
+
+@keyframes opacity50 {
+    50% {
+        opacity: 1
+    }
+}
+
+.HiLo_rect {
+    position: absolute;
+    left: 148px;
+    top: -110px;
+}
+
+.HiLo_rect .rect1 {
+    width: 455px;
+    height: 96px;
+    position: absolute;
+    background: rgb(0 0 0 / 0.001);
+    left: 10px;
+    top: 161px;
+    border-radius: 75px;
+}
+
+.HiLo_rect .rect2 {
+    width: 550px;
+    height: 57px;
+    position: absolute;
+    background: rgb(0 0 0 / 0.001);
+    left: -19px;
+    top: 605px;
+    border-radius: 28px;
+}
+
+.HiLo_rect .rect3 {
+    width: 775px;
+    height: 394px;
+    position: absolute;
+    background: rgb(0 0 0 / 0.05);
+    left: -127px;
+    top: 246px;
+    border-radius: 292px;
+}
+
+#HiLo .mini_close {
+    left: 682px;
+    top: 106px;
+    z-index: 2;
+}
+
+#HiLo .mini_help {
+    left: 776px;
+    top: 262px;
+    z-index: 2;
+}
+
+#HiLo .mini_history {
+    left: 755px;
+    top: 191px;
+    z-index: 2;
+}
+
+#HiLo .mini_rank {
+    left: 767px;
+    top: 338px;
+    z-index: 2;
+}
+
+#HiLo_room {
+    position: absolute;
+    left: -24px;
+}
+
+#HiLo .room1K {
+    left: 69px;
+    top: 140px;
+    z-index: 2;
+}
+
+#HiLo .room10K {
+    left: 26px;
+    top: 201px;
+    z-index: 2;
+}
+
+#HiLo .room50K {
+    left: 8px;
+    top: 278px;
+    z-index: 2;
+}
+
+#HiLo .room100K {
+    left: 20px;
+    top: 353px;
+    z-index: 2;
+}
+
+#HiLo .room500K {
+    left: 57px;
+    top: 421px;
+    z-index: 2;
+}
+
+#HiLo .card-bg {
+    position: absolute;
+    width: 147px;
+    height: 207px;
+    background: url('../images/HiLo/asset.png') no-repeat;
+    background-position: -0px -118px;
+    top: 238px;
+    left: 149px;
+}
+
+#HiLo .btn_up {
+    position: absolute;
+    width: 85px;
+    height: 59px;
+    background: url('../images/HiLo/asset.png') no-repeat;
+    background-position: -85px -59px;
+    top: 241px;
+    left: 370px;
+}
+
+#HiLo .btn_up.disable {
+    background-position: -131px -0px;
+    pointer-events: none;
+}
+
+#HiLo .btn_down {
+    position: absolute;
+    width: 85px;
+    height: 59px;
+    background: url('../images/HiLo/asset.png') no-repeat;
+    background-position: -46px -0px;
+    top: 374px;
+    left: 370px;
+}
+
+#HiLo .btn_down.disable {
+    background-position: -0px -59px;
+    pointer-events: none;
+}
+
+#HiLo .bt_newTurn {
+    position: absolute;
+    width: 173px;
+    height: 70px;
+    background: url('../images/HiLo/asset.png') no-repeat;
+    background-position: -0px -325px;
+    top: 376px;
+    left: 565px;
+}
+
+#HiLo .bt_newTurn.disable {
+    background-position: -0px -395px;
+    pointer-events: none;
+}
+
+#HiLo .Aces {
+    position: absolute;
+    top: 316px;
+    left: 562px;
+}
+
+#HiLo .A1 {
+    position: absolute;
+    width: 23px;
+    height: 31px;
+    background: url('../images/HiLo/asset.png') no-repeat;
+    background-position: -0px -0px;
+    top: 0px;
+    left: 0px;
+}
+
+#HiLo .A1.active {
+    background-position: -23px -0px;
+}
+
+#HiLo .A2 {
+    position: absolute;
+    width: 23px;
+    height: 31px;
+    background: url('../images/HiLo/asset.png') no-repeat;
+    background-position: -0px -0px;
+    top: 0px;
+    left: 81px;
+}
+
+#HiLo .A2.active {
+    background-position: -23px -0px;
+}
+
+#HiLo .A3 {
+    position: absolute;
+    width: 23px;
+    height: 31px;
+    background: url('../images/HiLo/asset.png') no-repeat;
+    background-position: -0px -0px;
+    top: 0px;
+    left: 166px;
+}
+
+#HiLo .A3.active {
+    background-position: -23px -0px;
+}

@@ -1,0 +1,633 @@
+{
+  "ID": "25d0c792-1453-4a2e-9c04-47d462774eaa",
+  "Version": "2.3.4",
+  "Name": "DialogWeb",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 93,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {},
+            "EndColor": {
+              "R": 150,
+              "G": 200
+            },
+            "ColorVector": {
+              "ScaleX": 0.0,
+              "ScaleY": -1.0
+            },
+            "Scale9OriginY": -211,
+            "Scale9Width": 1,
+            "Scale9Height": 422,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 0.6,
+              "ScaleY": 0.6
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PercentWidthEnable": true,
+            "PercentWidthEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.6875
+            },
+            "TopMargin": -220.0,
+            "BottomMargin": -220.0,
+            "Tag": 193,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "popup/bg.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 272,
+                "Scale9OriginY": 164,
+                "Scale9Width": 515,
+                "Scale9Height": 394,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 540.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.9322,
+                  "Y": 0.6685
+                },
+                "LeftMargin": 38.5,
+                "RightMargin": 38.5,
+                "TopMargin": 179.0,
+                "BottomMargin": 179.0,
+                "Tag": 340,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "popup/bg_titlle.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 129,
+                    "Scale9OriginY": 21,
+                    "Scale9Width": 141,
+                    "Scale9Height": 34,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 529.5,
+                      "Y": 690.1598
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.9559
+                    },
+                    "PreSize": {
+                      "X": 0.3768,
+                      "Y": 0.1053
+                    },
+                    "LeftMargin": 330.0,
+                    "RightMargin": 330.0,
+                    "TopMargin": 31.8402,
+                    "BottomMargin": 614.1598,
+                    "Tag": 654,
+                    "Children": [
+                      {
+                        "FontSize": 40,
+                        "LabelText": "Thông báo",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "fonts/UTMSwissBold.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 26,
+                          "G": 26,
+                          "B": 26
+                        },
+                        "ShadowOffsetX": 0.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 201.7743,
+                          "Y": 38.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5057,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.4411,
+                          "Y": 0.75
+                        },
+                        "LeftMargin": 113.7743,
+                        "RightMargin": 109.2257,
+                        "TopMargin": 9.5,
+                        "BottomMargin": 9.5,
+                        "Tag": 3183,
+                        "ActionTag": -2013017104,
+                        "ZOrder": 1,
+                        "Size": {
+                          "X": 176.0,
+                          "Y": 57.0
+                        },
+                        "Name": "lblTitle",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 320587733,
+                    "Size": {
+                      "X": 399.0,
+                      "Y": 76.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "popup/bg_01.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 553,
+                    "Scale9OriginY": 263,
+                    "Scale9Width": 571,
+                    "Scale9Height": 271,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 533.1006,
+                      "Y": 401.793
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5034,
+                      "Y": 0.5565
+                    },
+                    "PreSize": {
+                      "X": 0.9008,
+                      "Y": 0.4848
+                    },
+                    "LeftMargin": 56.1006,
+                    "RightMargin": 48.8994,
+                    "TopMargin": 145.207,
+                    "BottomMargin": 226.793,
+                    "Tag": 6260,
+                    "ActionTag": -789601909,
+                    "Size": {
+                      "X": 954.0,
+                      "Y": 350.0
+                    },
+                    "Name": "Image_1_0",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 35,
+                    "LabelText": "Khong ket noi duoc voi may chu. Vui long kiem tra lai ket noi mang",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/UTMSwiss.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 529.5,
+                      "Y": 405.4752
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5616
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.86,
+                      "Y": 0.4
+                    },
+                    "LeftMargin": 74.13,
+                    "RightMargin": 74.13,
+                    "TopMargin": 172.1248,
+                    "BottomMargin": 261.0752,
+                    "Tag": 198,
+                    "ActionTag": 59739484,
+                    "ZOrder": 1,
+                    "Size": {
+                      "X": 910.74,
+                      "Y": 288.8
+                    },
+                    "Name": "lblContent",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1427413857,
+                "Size": {
+                  "X": 1059.0,
+                  "Y": 722.0
+                },
+                "Name": "imgBackground",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {},
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "popup/close.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 15,
+                "Scale9Width": 80,
+                "Scale9Height": 60,
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1007.9391,
+                  "Y": 824.3884
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.8873,
+                  "Y": 0.7633
+                },
+                "PreSize": {
+                  "X": 0.0968,
+                  "Y": 0.0833
+                },
+                "LeftMargin": 952.9391,
+                "RightMargin": 73.0608,
+                "TopMargin": 210.6116,
+                "BottomMargin": 779.3884,
+                "Tag": 653,
+                "ActionTag": 1841755502,
+                "ZOrder": 1,
+                "Size": {
+                  "X": 110.0,
+                  "Y": 90.0
+                },
+                "Name": "btnClose",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 25,
+                "ButtonText": "",
+                "FontResource": {
+                  "Type": "Default",
+                  "Path": "",
+                  "Plist": ""
+                },
+                "TextColor": {},
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "popup/btn_thulai.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 29,
+                "Scale9Width": 201,
+                "Scale9Height": 56,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 567.7761,
+                  "Y": 322.7587
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.4998,
+                  "Y": 0.2989
+                },
+                "PreSize": {
+                  "X": 0.2298,
+                  "Y": 0.1065
+                },
+                "LeftMargin": 437.2761,
+                "RightMargin": 437.7239,
+                "TopMargin": 699.7413,
+                "BottomMargin": 265.2587,
+                "Tag": 14,
+                "ActionTag": -1431137036,
+                "Size": {
+                  "X": 261.0,
+                  "Y": 115.0
+                },
+                "Name": "btnRetry",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 25,
+                "ButtonText": "",
+                "FontResource": {
+                  "Type": "Default",
+                  "Path": "",
+                  "Plist": ""
+                },
+                "TextColor": {},
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "popup/btn_dongy.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 29,
+                "Scale9Width": 201,
+                "Scale9Height": 56,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 720.213,
+                  "Y": 322.7587
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.634,
+                  "Y": 0.2989
+                },
+                "PreSize": {
+                  "X": 0.2298,
+                  "Y": 0.1065
+                },
+                "LeftMargin": 589.713,
+                "RightMargin": 285.287,
+                "TopMargin": 699.7413,
+                "BottomMargin": 265.2587,
+                "Tag": 53,
+                "ActionTag": 1001434666,
+                "Size": {
+                  "X": 261.0,
+                  "Y": 115.0
+                },
+                "Name": "btnOk",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 25,
+                "ButtonText": "",
+                "FontResource": {
+                  "Type": "Default",
+                  "Path": "",
+                  "Plist": ""
+                },
+                "TextColor": {},
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "popup/btn_huybo.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 30,
+                "Scale9OriginY": 29,
+                "Scale9Width": 201,
+                "Scale9Height": 56,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 444.6147,
+                  "Y": 322.7587
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.3914,
+                  "Y": 0.2989
+                },
+                "PreSize": {
+                  "X": 0.2298,
+                  "Y": 0.1065
+                },
+                "LeftMargin": 314.1147,
+                "RightMargin": 560.8853,
+                "TopMargin": 699.7413,
+                "BottomMargin": 265.2587,
+                "Tag": 54,
+                "ActionTag": 972682126,
+                "Size": {
+                  "X": 261.0,
+                  "Y": 115.0
+                },
+                "Name": "btnCancel",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1,
+            "Size": {
+              "X": 1136.0,
+              "Y": 1080.0
+            },
+            "Name": "pnlMid",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "UiEntity22265380",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "fonts/UTMSwiss.ttf",
+        "fonts/UTMSwissBold.ttf",
+        "popup/bg.png",
+        "popup/bg_01.png",
+        "popup/bg_titlle.png",
+        "popup/btn_dongy.png",
+        "popup/btn_huybo.png",
+        "popup/btn_thulai.png",
+        "popup/close.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

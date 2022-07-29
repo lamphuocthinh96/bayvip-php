@@ -1,0 +1,83 @@
+
+sukien_taixiu.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball
+  rotate: false
+  xy: 2, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 349
+  size: 700, 161
+  orig: 700, 161
+  offset: 0, 0
+  index: -1
+dragon
+  rotate: false
+  xy: 704, 158
+  size: 416, 352
+  orig: 416, 352
+  offset: 0, 0
+  index: -1
+mieng
+  rotate: false
+  xy: 2, 48
+  size: 198, 149
+  orig: 198, 149
+  offset: 0, 0
+  index: -1
+rau__0000s_0000_rau_2
+  rotate: true
+  xy: 1419, 425
+  size: 85, 152
+  orig: 85, 152
+  offset: 0, 0
+  index: -1
+rau__0000s_0001_rau_1
+  rotate: false
+  xy: 412, 279
+  size: 240, 68
+  orig: 240, 68
+  offset: 0, 0
+  index: -1
+sao
+  rotate: false
+  xy: 1122, 193
+  size: 88, 87
+  orig: 88, 87
+  offset: 0, 0
+  index: -1
+sung1
+  rotate: false
+  xy: 1122, 282
+  size: 164, 135
+  orig: 164, 135
+  offset: 0, 0
+  index: -1
+sung2
+  rotate: false
+  xy: 202, 73
+  size: 96, 124
+  orig: 96, 124
+  offset: 0, 0
+  index: -1
+text_1
+  rotate: false
+  xy: 2, 199
+  size: 408, 148
+  orig: 408, 148
+  offset: 0, 0
+  index: -1
+text_2
+  rotate: false
+  xy: 1122, 419
+  size: 295, 91
+  orig: 295, 91
+  offset: 0, 0
+  index: -1

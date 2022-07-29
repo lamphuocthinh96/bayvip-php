@@ -1,0 +1,34 @@
+
+icon_daovang.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7
+  rotate: false
+  xy: 825, 252
+  size: 162, 162
+  orig: 162, 162
+  offset: 0, 0
+  index: -1
+bg
+  rotate: true
+  xy: 2, 133
+  size: 281, 634
+  orig: 281, 634
+  offset: 0, 0
+  index: -1
+bg_jackpot
+  rotate: false
+  xy: 2, 2
+  size: 235, 129
+  orig: 235, 129
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 638, 263
+  size: 185, 151
+  orig: 185, 151
+  offset: 0, 0
+  index: -1

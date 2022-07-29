@@ -1,0 +1,36 @@
+{"frames": {
+
+"bt_rolate_vqmm.png":
+{
+	"frame": {"x":0,"y":0,"w":61,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":98},
+	"sourceSize": {"w":61,"h":98}
+},
+"center_vqmm.png":
+{
+	"frame": {"x":61,"y":0,"w":99,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":99},
+	"sourceSize": {"w":99,"h":99}
+},
+"cicrle_vqmm.png":
+{
+	"frame": {"x":160,"y":0,"w":565,"h":565},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":565,"h":565},
+	"sourceSize": {"w":565,"h":565}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "asset_vqmm.png",
+	"format": "RGBA8888",
+	"size": {"w":725,"h":565},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1e687c4bde9c03a3dfdc6cc49c6f32ad:1dd916fb151e3b34bfd4d1a5bbca6a1c:ed36ef1c9004c9c898935732073b922c$"
+}
+}

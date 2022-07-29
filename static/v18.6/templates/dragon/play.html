@@ -1,0 +1,111 @@
+<div class="minigame-popup" id="dragon">
+    <div class="dragon-game-block" style="z-index: 121;" id="parentpop">
+        <div class="mini_close"></div>
+        <div class="mini_help"></div>
+        <div class="mini_rank"></div>
+        <div class="mini_history"></div>
+        <div class="mini_static"></div>
+        <div class="mini_nan"></div>
+        <div class="mini_chat"></div>
+
+        <div class="sessionDragon">#0</div>
+
+        <div class="location tai"></div>
+        <div class="location xiu"></div>
+
+        <div id="dr_Cardvalue1" class="drcardvalue">0</div>
+        <div id="dr_Cardvalue2" class="drcardvalue" style="left: 434.3px;">0</div>
+
+
+
+        <div id="dr_totalbetOver">0</div>
+        <div id="dr_totalcountBetOver">0</div>
+        <div id="dr_totalbetUnder">0</div>
+        <div id="dr_totalcountBetUnder">0</div>
+        <div id="dr_betpersonOver">0</div>
+        <div id="dr_betpersonUnder">0</div>
+
+
+        <div class="lucky_rect">
+            <div class="rect1"></div>
+            <div class="rect2"></div>
+            <div class="rect3"></div>
+
+        </div>
+
+        <div class="dragon_game_v2">
+        </div>
+
+        <div class="dr_timewaiting" style="display: none;">00:00</div>
+
+        <div class="tips">
+            <div class="tipsoverlayCard1"></div>
+            <div class="tipsoverlayCard2"></div>
+        </div>
+
+        <div class="statistic-tx">
+            <div class="left-statistic-tx"></div>
+            <div class="right-statistic-tx"></div>
+        </div>
+
+
+        <div class="column-price">
+            <div class="column-number">
+
+
+                <p class="row-2">
+                    <input id="drbetpersonOver" maxlength="11" disabled="disabled" autocomplete="off" onkeyup="commonDragon.onChangeInputValidate(this);" onfocus="commonDragon.onFocus(this);" onblur="commonDragon.onBlur(this);" type="text" value="0">
+                </p>
+            </div>
+            <div class="column-number">
+                <p class="row-2">
+                    <input id="drbetpersonUnder" maxlength="11" disabled="disabled" autocomplete="off" onkeyup="commonDragon.onChangeInputValidate(this);" onfocus="commonDragon.onFocus(this);" onblur="commonDragon.onBlur(this);" type="text" value="0">
+                </p>
+            </div>
+        </div>
+        <ul class="list-dice-small" id="dr_gamehisId"></ul>
+        <div class="setfast" id="dragonsetfastID" style="display: none">
+            <ul class="numfast">
+                <li onclick="commonDragon.onClickBetfast(1000);">1.000</li>
+                <li onclick="commonDragon.onClickBetfast(5000);">5.000</li>
+                <li onclick="commonDragon.onClickBetfast(10000);">10.000</li>
+                <li onclick="commonDragon.onClickBetfast(100000);">100.000</li>
+                <li onclick="commonDragon.onClickBetfast(500000);">500k</li>
+                <li onclick="commonDragon.onClickBetfast(1000000);">1M</li>
+                <li onclick="commonDragon.onClickBetfast(5000000);">5M</li>
+                <li onclick="commonDragon.onClickBetfast(10000000);">10M</li>
+                <li onclick="commonDragon.onClickBetfast(100000000);">100M</li>
+                <li onclick="commonDragon.onClickBetfast(-1);">Tất tay</li>
+            </ul>
+            <ul class="numfast_other" style="display: none">
+                <li onclick="commonDragon.onClickBetfastOther(1);">1</li>
+                <li onclick="commonDragon.onClickBetfastOther(2);">2</li>
+                <li onclick="commonDragon.onClickBetfastOther(3);">3</li>
+                <li onclick="commonDragon.onClickBetfastOther(4);">4</li>
+                <li onclick="commonDragon.onClickBetfastOther(5);">5</li>
+                <li onclick="commonDragon.onClickBetfastOther(6);">6</li>
+                <li onclick="commonDragon.onClickBetfastOther(7);">7</li>
+                <li onclick="commonDragon.onClickBetfastOther(8);">8</li>
+                <li onclick="commonDragon.onClickBetfastOther(9);">9</li>
+                <li onclick="commonDragon.onClickBetfastOther(0);">0</li>
+                <li onclick="commonDragon.onClickBetfastOther(-2);">.000</li>
+                <li onclick="commonDragon.onClickBetfastOther(-1);"></li>
+            </ul>
+
+            <div class="bt_shortcutkey" onclick="commonDragon.onClickTabfast()"></div>
+            <div class="bt_fastOk" onclick="commonDragon.postBet()"></div>
+            <div class="bt_fastCancel" onclick="commonDragon.onClickcancelfast();"></div>
+
+        </div>
+
+
+
+        <div class="messageDr"></div>
+
+
+
+    </div>
+
+
+
+</div>

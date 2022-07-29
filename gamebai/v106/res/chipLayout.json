@@ -1,0 +1,349 @@
+{
+  "ID": "a8661912-5a09-45dd-88ca-6e841ed1089d",
+  "Version": "2.3.4",
+  "Name": "chipLayout",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 956,
+        "Children": [
+          {
+            "ClipAble": false,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {},
+            "EndColor": {
+              "R": 150,
+              "G": 200
+            },
+            "ColorVector": {
+              "ScaleY": -1.0
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 3,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "common/100.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 38.0,
+                  "Y": 34.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8085,
+                  "Y": 0.6939
+                },
+                "PreSize": {
+                  "X": 0.6809,
+                  "Y": 0.6327
+                },
+                "Tag": 4,
+                "ActionTag": 65858952,
+                "IsAutoSize": true,
+                "Size": {
+                  "X": 32.0,
+                  "Y": 31.0
+                },
+                "VisibleForFrame": false,
+                "Name": "imgChip100M",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "common/100.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 63.0,
+                  "Y": 33.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.3404,
+                  "Y": 0.6735
+                },
+                "PreSize": {
+                  "X": 0.6809,
+                  "Y": 0.6327
+                },
+                "Tag": 6,
+                "ActionTag": 9397539,
+                "IsAutoSize": true,
+                "Size": {
+                  "X": 32.0,
+                  "Y": 31.0
+                },
+                "VisibleForFrame": false,
+                "Name": "imgChip10M",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "common/100.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -13.0,
+                  "Y": 33.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.2766,
+                  "Y": 0.6735
+                },
+                "PreSize": {
+                  "X": 0.6809,
+                  "Y": 0.6327
+                },
+                "Tag": 7,
+                "ActionTag": 7355033,
+                "IsAutoSize": true,
+                "Size": {
+                  "X": 32.0,
+                  "Y": 31.0
+                },
+                "VisibleForFrame": false,
+                "Name": "imgChip1M",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "common/100.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 50.0,
+                  "Y": 10.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.0638,
+                  "Y": 0.2041
+                },
+                "PreSize": {
+                  "X": 0.6809,
+                  "Y": 0.6327
+                },
+                "Tag": 8,
+                "ActionTag": 34957427,
+                "IsAutoSize": true,
+                "Size": {
+                  "X": 32.0,
+                  "Y": 31.0
+                },
+                "VisibleForFrame": false,
+                "Name": "imgChip100K",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "common/100.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 12.0,
+                  "Y": 34.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2553,
+                  "Y": 0.6939
+                },
+                "PreSize": {
+                  "X": 0.6809,
+                  "Y": 0.6327
+                },
+                "Tag": 9,
+                "ActionTag": 25735763,
+                "IsAutoSize": true,
+                "Size": {
+                  "X": 32.0,
+                  "Y": 31.0
+                },
+                "VisibleForFrame": false,
+                "Name": "imgChip10K",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "common/100.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 11.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.2245
+                },
+                "PreSize": {
+                  "X": 0.6809,
+                  "Y": 0.6327
+                },
+                "Tag": 10,
+                "ActionTag": 50975058,
+                "IsAutoSize": true,
+                "Size": {
+                  "X": 32.0,
+                  "Y": 31.0
+                },
+                "VisibleForFrame": false,
+                "Name": "imgChip1K",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "common/100.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 25.0,
+                  "Y": 11.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5319,
+                  "Y": 0.2245
+                },
+                "PreSize": {
+                  "X": 0.6809,
+                  "Y": 0.6327
+                },
+                "Tag": 11,
+                "ActionTag": 5473047,
+                "IsAutoSize": true,
+                "Size": {
+                  "X": 32.0,
+                  "Y": 31.0
+                },
+                "VisibleForFrame": false,
+                "Name": "imgChip100",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1,
+            "Size": {
+              "X": 47.0,
+              "Y": 49.0
+            },
+            "Name": "panelChip",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 47.0,
+          "Y": 49.0
+        },
+        "Name": "UiEntity798577896",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "common/100.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

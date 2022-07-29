@@ -1,0 +1,76 @@
+
+icon_mini_xocxoc.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mini
+  rotate: true
+  xy: 433, 407
+  size: 88, 33
+  orig: 88, 33
+  offset: 0, 0
+  index: -1
+bat
+  rotate: false
+  xy: 292, 226
+  size: 132, 130
+  orig: 132, 130
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 208
+  size: 288, 287
+  orig: 288, 287
+  offset: 0, 0
+  index: -1
+chat1
+  rotate: false
+  xy: 2, 2
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+chat2
+  rotate: false
+  xy: 2, 2
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+chat3
+  rotate: false
+  xy: 249, 180
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+chat4
+  rotate: false
+  xy: 249, 180
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dia
+  rotate: false
+  xy: 2, 30
+  size: 176, 176
+  orig: 176, 176
+  offset: 0, 0
+  index: -1
+new
+  rotate: false
+  xy: 292, 358
+  size: 139, 137
+  orig: 139, 137
+  offset: 0, 0
+  index: -1
+xocxoc
+  rotate: true
+  xy: 180, 23
+  size: 183, 67
+  orig: 183, 67
+  offset: 0, 0
+  index: -1

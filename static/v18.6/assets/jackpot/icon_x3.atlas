@@ -1,0 +1,41 @@
+
+icon_x3.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box
+  rotate: false
+  xy: 1187, 209
+  size: 280, 238
+  orig: 280, 238
+  offset: 0, 0
+  index: -1
+coin
+  rotate: false
+  xy: 756, 211
+  size: 429, 236
+  orig: 429, 236
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 94
+  size: 752, 353
+  orig: 752, 353
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 2, 2
+  size: 387, 90
+  orig: 387, 90
+  offset: 0, 0
+  index: -1
+x3
+  rotate: false
+  xy: 1469, 258
+  size: 287, 189
+  orig: 287, 189
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,75 @@
+
+map4.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+dao1
+  rotate: false
+  xy: 665, 281
+  size: 495, 360
+  orig: 495, 360
+  offset: 0, 0
+  index: -1
+dao2
+  rotate: false
+  xy: 1633, 25
+  size: 385, 337
+  orig: 385, 337
+  offset: 0, 0
+  index: -1
+dao4
+  rotate: false
+  xy: 1162, 2
+  size: 469, 360
+  orig: 469, 360
+  offset: 0, 0
+  index: -1
+dao5
+  rotate: false
+  xy: 2, 13
+  size: 661, 628
+  orig: 661, 628
+  offset: 0, 0
+  index: -1
+may1
+  rotate: false
+  xy: 2, 1410
+  size: 1989, 608
+  orig: 1989, 608
+  offset: 0, 0
+  index: -1
+may2
+  rotate: false
+  xy: 2, 643
+  size: 1801, 765
+  orig: 1801, 765
+  offset: 0, 0
+  index: -1
+may3
+  rotate: false
+  xy: 1162, 364
+  size: 703, 277
+  orig: 703, 277
+  offset: 0, 0
+  index: -1
+
+map42.png
+size: 2048,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+dao3
+  rotate: false
+  xy: 1558, 134
+  size: 440, 357
+  orig: 440, 357
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 2, 2
+  size: 1554, 489
+  orig: 1554, 489
+  offset: 0, 0
+  index: -1

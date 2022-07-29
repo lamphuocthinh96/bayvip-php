@@ -1,0 +1,69 @@
+
+event_chuadao.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flower_0
+  rotate: false
+  xy: 1530, 365
+  size: 66, 114
+  orig: 66, 114
+  offset: 0, 0
+  index: -1
+flower_1
+  rotate: false
+  xy: 1530, 314
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+flower_2
+  rotate: false
+  xy: 923, 105
+  size: 78, 75
+  orig: 78, 75
+  offset: 0, 0
+  index: -1
+flower_3
+  rotate: true
+  xy: 156, 6
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+iol/Group 236
+  rotate: false
+  xy: 2, 66
+  size: 458, 413
+  orig: 458, 413
+  offset: 0, 0
+  index: -1
+iol/Layer 15
+  rotate: false
+  xy: 462, 95
+  size: 459, 384
+  orig: 459, 384
+  offset: 0, 0
+  index: -1
+iol/iol
+  rotate: false
+  xy: 923, 305
+  size: 605, 174
+  orig: 605, 174
+  offset: 0, 0
+  index: -1
+iol/iol 2
+  rotate: false
+  xy: 923, 182
+  size: 605, 121
+  orig: 605, 121
+  offset: 0, 0
+  index: -1
+iol/t14
+  rotate: false
+  xy: 2, 2
+  size: 152, 62
+  orig: 152, 62
+  offset: 0, 0
+  index: -1

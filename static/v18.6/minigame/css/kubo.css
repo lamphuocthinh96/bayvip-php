@@ -1,0 +1,566 @@
+ #Kubo {
+     position: absolute;
+     left: 218px;
+     top: 247px;
+     color: #fff;
+     z-index: 1;
+ }
+
+ #Kubo.active {
+     z-index: 2;
+ }
+
+ .egg-close-Line {
+     position: absolute;
+     background: url(../images/asset_popup.png) no-repeat;
+     background-position: -605px 0px;
+     width: 68px;
+     height: 55px;
+     top: 20px;
+     right: 18px;
+ }
+
+ .kubo-lines {
+     position: absolute;
+     width: 693px;
+     height: 553px;
+     background: url(../images/bg_static.png) no-repeat;
+     z-index: 1000;
+     top: 22px;
+     left: 17px;
+ }
+
+ .kubo-lines li {
+     width: 20%;
+     float: left;
+     -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+     -ms-box-sizing: border-box;
+     box-sizing: border-box;
+     margin-bottom: 5px;
+ }
+
+ .egg-infoline span {
+     display: inline-block;
+     width: 24px;
+     color: #fff;
+     letter-spacing: -1px;
+     float: left;
+     font-size: 18px;
+     margin-right: 2px;
+     font-weight: 700;
+     text-align: center;
+ }
+
+ .egg-infoline p {
+     background: rgb(39 30 69 / 0.4);
+     padding: 5px;
+     border-radius: 5px;
+     -moz-border-radius: 5px;
+     -webkit-border-radius: 5px;
+     display: block;
+     float: left;
+ }
+
+ i.egg-icon.egg-l1 {
+     background: url(../Images/Kubo/Kubo_bet_line.png) no-repeat;
+     background-position: -580px 0px;
+     display: block;
+     width: 70px;
+     height: 59px
+ }
+
+ i.egg-icon.egg-l2 {
+     background: url(../Images/Kubo/Kubo_bet_line.png) no-repeat;
+     background-position: -650px 0px;
+     display: block;
+     width: 70px;
+     height: 59px
+ }
+
+ i.egg-icon.egg-l3 {
+     background: url(../Images/Kubo/Kubo_bet_line.png) no-repeat;
+     background-position: -720px 0px;
+     display: block;
+     width: 70px;
+     height: 59px
+ }
+
+ i.egg-icon.egg-l4 {
+     background: url(../Images/Kubo/Kubo_bet_line.png) no-repeat;
+     background-position: -790px 0px;
+     display: block;
+     width: 70px;
+     height: 59px
+ }
+
+ i.egg-icon.egg-l5 {
+     background: url(../Images/Kubo/Kubo_bet_line.png) no-repeat;
+     background-position: -860px 0px;
+     display: block;
+     width: 70px;
+     height: 59px
+ }
+
+ i.egg-icon.egg-l6 {
+     background: url(../Images/Kubo/Kubo_bet_line.png) no-repeat;
+     background-position: -930px 0px;
+     display: block;
+     width: 70px;
+     height: 59px
+ }
+
+ i.egg-icon.egg-l7 {
+     background: url(../Images/Kubo/Kubo_bet_line.png) no-repeat;
+     background-position: -1000px 0px;
+     display: block;
+     width: 70px;
+     height: 59px
+ }
+
+ i.egg-icon.egg-l8 {
+     background: url(../Images/Kubo/Kubo_bet_line.png) no-repeat;
+     background-position: -1070px 0px;
+     display: block;
+     width: 70px;
+     height: 59px
+ }
+
+ i.egg-icon.egg-l9 {
+     background: url(../Images/Kubo/Kubo_bet_line.png) no-repeat;
+     background-position: -1140px 0px;
+     display: block;
+     width: 70px;
+     height: 59px
+ }
+
+ i.egg-icon.egg-l10 {
+     background: url(../Images/Kubo/Kubo_bet_line.png) no-repeat;
+     background-position: -1210px 0px;
+     display: block;
+     width: 70px;
+     height: 59px
+ }
+
+ i.egg-icon.egg-l11 {
+     background: url(../Images/Kubo/Kubo_bet_line.png) no-repeat;
+     background-position: -1280px 0px;
+     display: block;
+     width: 70px;
+     height: 59px
+ }
+
+ i.egg-icon.egg-l12 {
+     background: url(../Images/Kubo/Kubo_bet_line.png) no-repeat;
+     background-position: -1350px 0px;
+     display: block;
+     width: 70px;
+     height: 59px
+ }
+
+ i.egg-icon.egg-l13 {
+     background: url(../Images/Kubo/Kubo_bet_line.png) no-repeat;
+     background-position: -1420px 0px;
+     display: block;
+     width: 70px;
+     height: 59px
+ }
+
+ i.egg-icon.egg-l14 {
+     background: url(../Images/Kubo/Kubo_bet_line.png) no-repeat;
+     background-position: -1490px 0px;
+     display: block;
+     width: 70px;
+     height: 59px
+ }
+
+ i.egg-icon.egg-l15 {
+     background: url(../Images/Kubo/Kubo_bet_line.png) no-repeat;
+     background-position: -1560px 0px;
+     display: block;
+     width: 70px;
+     height: 59px
+ }
+
+ i.egg-icon.egg-l16 {
+     background: url(../Images/Kubo/Kubo_bet_line.png) no-repeat;
+     background-position: -1630px 0px;
+     display: block;
+     width: 70px;
+     height: 59px
+ }
+
+ i.egg-icon.egg-l17 {
+     background: url(../Images/Kubo/Kubo_bet_line.png) no-repeat;
+     background-position: -1700px 0px;
+     display: block;
+     width: 70px;
+     height: 59px
+ }
+
+ i.egg-icon.egg-l18 {
+     background: url(../Images/Kubo/Kubo_bet_line.png) no-repeat;
+     background-position: -1770px 0px;
+     display: block;
+     width: 70px;
+     height: 59px
+ }
+
+ i.egg-icon.egg-l19 {
+     background: url(../Images/Kubo/Kubo_bet_line.png) no-repeat;
+     background-position: -1840px 0px;
+     display: block;
+     width: 70px;
+     height: 59px
+ }
+
+ i.egg-icon.egg-l20 {
+     background: url(../Images/Kubo/Kubo_bet_line.png) no-repeat;
+     background-position: -1910px 0px;
+     display: block;
+     width: 70px;
+     height: 59px
+ }
+
+ .kubo-lines li:hover p,
+ .kubo-lines li.active p {
+     background: #271e45;
+     cursor: pointer;
+ }
+
+ @keyframes roll {
+     0% {
+         -webkit-transform: rotate(0deg) scale(1);
+     }
+     100% {
+         -webkit-transform: rotate(360deg) scale(1);
+     }
+ }
+
+ @-webkit-keyframes roll {
+     0% {
+         -webkit-transform: rotate(0deg) scale(1);
+     }
+     100% {
+         -webkit-transform: rotate(360deg) scale(1);
+     }
+ }
+
+ @-webkit-keyframes hyperx {
+     25% {
+         -webkit-transform: translateY(-10px);
+         transform: translateY(-10px);
+     }
+     15%,
+     50% {
+         -webkit-transform: rotateX(20deg);
+         transform: rotateX(20deg);
+     }
+     75% {
+         -webkit-transform: none;
+         transform: none;
+     }
+ }
+
+ @keyframes hyperx {
+     25% {
+         -webkit-transform: translateY(-10px);
+         transform: translateY(-10px);
+     }
+     15%,
+     50% {
+         -webkit-transform: rotateX(20deg);
+         transform: rotateX(20deg);
+     }
+     75% {
+         -webkit-transform: none;
+         transform: none;
+     }
+ }
+
+ @keyframes bubble {
+     0% {
+         transform: scale(1);
+     }
+     25% {
+         transform: scale(0.8);
+     }
+     50% {
+         transform: scale(1);
+     }
+     75% {
+         transform: scale(0.8);
+     }
+     100% {
+         transform: scale(1);
+     }
+ }
+
+ .chonso {
+     padding: 17px 0 0 48px;
+     text-align: center;
+ }
+
+ .chonso .le {
+     background: url(../Images/Kubo/Kubo_bet_line.png) no-repeat;
+     background-position: -435px 0px;
+     display: block;
+     width: 145px;
+     height: 60px;
+     float: left;
+ }
+
+ .chonso .chan {
+     background: url(../Images/Kubo/Kubo_bet_line.png) no-repeat;
+     background-position: -290px 0px;
+     display: block;
+     width: 145px;
+     height: 60px;
+     float: left;
+ }
+
+ .chonso .bo {
+     background: url(../Images/Kubo/Kubo_bet_line.png) no-repeat;
+     background-position: -145px 0px;
+     display: block;
+     width: 145px;
+     height: 60px;
+     float: left;
+ }
+
+ .chonso .tatca {
+     background: url(../Images/Kubo/Kubo_bet_line.png) no-repeat;
+     background-position: -0px 0px;
+     display: block;
+     width: 145px;
+     height: 60px;
+     float: left;
+ }
+
+ .chonso .tatca:hover,
+ .chonso .le:hover,
+ .chonso .chan:hover,
+ .chonso .bo:hover {
+     filter: brightness(120%);
+ }
+
+ .text_dc {
+     padding: 27px 0px;
+     text-align: center;
+     color: #fff;
+     text-transform: uppercase;
+     font-size: 25px;
+     font-weight: bold;
+ }
+
+ .kubo-notice {
+     position: absolute;
+     width: 542px;
+     height: 48px;
+     padding: 9px 12px;
+     left: 80px;
+     top: 427px;
+     background-color: rgba(29, 16, 18, 0);
+     background-image: -webkit-linear-gradient(left, rgba(29, 16, 18, 0) 0%, rgba(29, 16, 18, 0.6) 5%, rgba(29, 16, 18, 0.6) 95%, rgba(29, 16, 18, 0) 100%);
+     background-image: linear-gradient(to right, rgba(29, 16, 18, 0) 0%, rgba(29, 16, 18, 0.5) 20%, rgba(29, 16, 18, 0.5) 80%, rgba(29, 16, 17, 0) 100%);
+     font-size: 18px;
+     text-align: center;
+     color: #fff;
+     font-family: roboto-bold;
+     z-index: 99991;
+     display: none;
+ }
+
+ .kubo-notice:before {
+     width: 542px;
+     height: 2px;
+     background-color: rgba(29, 16, 18, 0);
+     background-image: -webkit-linear-gradient(left, rgba(29, 16, 18, 0) 0%, hsla(212, 55%, 57%, 0.8) 40%, hsla(212, 55%, 57%, 0.8) 60%, rgba(29, 16, 17, 0) 100%);
+     background-image: linear-gradient(to right, rgba(29, 16, 18, 0) 0%, hsla(212, 55%, 57%, 0.8) 40%, hsla(212, 55%, 57%, 0.8) 60%, rgba(29, 16, 17, 0) 100%);
+     position: absolute;
+     content: '';
+     left: 0px;
+     top: 0px;
+ }
+
+ .kubo-notice:after {
+     width: 542px;
+     height: 2px;
+     background-color: rgba(29, 16, 18, 0);
+     background-image: -webkit-linear-gradient(left, rgba(29, 16, 18, 0) 0%, hsla(212, 55%, 57%, 0.8) 40%, hsla(212, 55%, 57%, 0.8) 60%, rgba(29, 16, 17, 0) 100%);
+     background-image: linear-gradient(to right, rgba(29, 16, 18, 0) 0%, hsla(212, 55%, 57%, 0.8) 40%, hsla(212, 55%, 57%, 0.8) 60%, rgba(29, 16, 17, 0) 100%);
+     position: absolute;
+     content: '';
+     left: 0px;
+     bottom: 0px;
+ }
+
+ .minikubo_game_v2 {
+     position: absolute;
+     pointer-events: none;
+ }
+
+ .minikubo_game_v2:after {
+     position: absolute;
+     z-index: -1;
+     top: 56px;
+     background: url(../images/Kubo/bg.png) no-repeat;
+     width: 673px;
+     height: 465px;
+     content: '';
+     left: 42px;
+ }
+
+ .kubo_title {
+     position: absolute;
+     background: url(../images/Kubo/titlekubo.png) no-repeat;
+     width: 245px;
+     height: 107px;
+     z-index: -1;
+     left: 72px;
+     top: 11px;
+ }
+
+ .kubo_rect {
+     position: absolute;
+     left: 148px;
+     top: -142px;
+ }
+
+ .kubo_rect .rect1 {
+     width: 500px;
+     height: 76px;
+     position: absolute;
+     background: rgb(0 0 0 /0.0051);
+     left: -11px;
+     top: 167px;
+     border-radius: 20px;
+ }
+
+ .kubo_rect .rect3 {
+     width: 639px;
+     height: 417px;
+     position: absolute;
+     background: rgb(0 0 0 / 0.005);
+     left: -91px;
+     top: 222px;
+     border-radius: 130px;
+ }
+
+ #Kubo .mini_close {
+     left: 650px;
+     top: 90px;
+     z-index: 2;
+ }
+
+ #Kubo .mini_help {
+     left: 650px;
+     top: 261px;
+     z-index: 2;
+ }
+
+ #Kubo .mini_history {
+     left: 650px;
+     top: 187px;
+     z-index: 2;
+ }
+
+ #Kubo .mini_rank {
+     left: 650px;
+     top: 334px;
+     z-index: 2;
+ }
+
+ #kubo_room {
+     position: absolute;
+     top: 80px;
+     left: 27px;
+ }
+
+ #Kubo .room100 {
+     left: 0px;
+     top: 68px;
+     z-index: 2;
+ }
+
+ #Kubo .room1K {
+     left: -0px;
+     top: 145px;
+     z-index: 2;
+ }
+
+ #Kubo .room10K {
+     left: 0px;
+     top: 297px;
+     z-index: 2;
+ }
+
+ #Kubo .room5K {
+     left: -0px;
+     top: 221px;
+     z-index: 2;
+ }
+
+ #Kubo #btn_kubo {
+     position: absolute;
+     top: 475px;
+     left: 65px;
+ }
+
+ #Kubo .btn_spin {
+     left: 441px;
+     top: 0px;
+ }
+
+ #Kubo .btn_auto {
+     left: 311px;
+     top: 0px;
+ }
+
+ #Kubo .btn_sieutoc {
+     left: 179px;
+     top: 0px;
+ }
+
+ #Kubo .btn_line {
+     left: 49px;
+     top: 0px;
+ }
+
+ .number_line {
+     position: absolute;
+     font-size: 22px;
+     top: 489px;
+     left: 196px;
+     z-index: 999;
+     font-weight: bold;
+     font-style: italic;
+     -webkit-text-stroke: 1px #f9f9f9;
+     -webkit-text-fill-color: white;
+     font-family: Roboto;
+ }
+
+ #jackKubo {
+     font-size: 28px;
+     position: absolute;
+     color: #ff0;
+     left: 382px;
+     top: 80px;
+     width: 233px;
+     padding: 0px 44px;
+     z-index: 1;
+     text-align: left;
+ }
+
+ #jackKubo:before {
+     content: '';
+     background: url(../../assets/icon_B.png) no-repeat;
+     width: 75px;
+     height: 79px;
+     position: absolute;
+     background-size: 72%;
+     -webkit-background-size: 62%;
+     -moz-background-size: 72%;
+     left: -6px;
+     top: -2px;
+ }

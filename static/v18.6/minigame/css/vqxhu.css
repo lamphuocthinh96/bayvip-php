@@ -1,0 +1,179 @@
+.vqjackpot {
+    position: relative;
+    width: 756px;
+    height: 757px;
+    top: 95px;
+    margin: auto;
+    background: url(../images/vqjack/asset_vqjack.png) no-repeat;
+    background-position: 0px -219px;
+}
+
+.vqjackpot.active {
+    background-position: -756px -219px;
+}
+
+.vqjackpot .vqclose {
+    width: 69px;
+    height: 71px;
+    background-image: url(../images/asset_button.png);
+    background-position: 0px -360px;
+    position: absolute;
+    right: 0px;
+    top: 72px;
+    cursor: pointer;
+    z-index: 1;
+}
+
+.vqjackpot .vqclose:hover {
+    width: 69px;
+    filter: brightness(120%);
+}
+
+.vqjackpot .list_jactrate {
+    width: 327px;
+    position: absolute;
+    top: 138px;
+    left: -234px;
+    z-index: -1;
+}
+
+.vqjackpot .list_jactrate li {
+    width: 246px;
+    height: 96px;
+    float: right;
+    background: url(../images/vqjack/asset_vqjack.png) no-repeat;
+    background-position: -260px -0px;
+}
+
+.vqjackpot .list_jactrate li.active {
+    width: 327px;
+    height: 124px;
+    float: right;
+    background: url(../images/vqjack/asset_vqjack.png) no-repeat;
+    background-position: -506px -0px;
+}
+
+.vqjackpot .list_jactrate li.active span:first-child {
+    position: absolute;
+    font-size: 25px;
+    color: #fff;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.vqjackpot .list_jactrate li.active span:last-child {
+    position: absolute;
+    font-size: 28px;
+    color: #fdeb18;
+    font-weight: bold;
+    margin-left: 30px;
+    margin-top: 57px;
+}
+
+.vqjackpot .list_jactrate li span:first-child {
+    position: absolute;
+    font-size: 20px;
+    color: #fff;
+    margin-left: 22px;
+    margin-top: 20px;
+}
+
+.vqjackpot .list_jactrate li span:last-child {
+    position: absolute;
+    font-size: 20px;
+    color: #fdeb18;
+    margin-left: 22px;
+    margin-top: 50px;
+    font-weight: bold;
+}
+
+.vqjackpot .rolate {
+    width: 72px;
+    height: 105px;
+    position: absolute;
+    left: 343px;
+    top: -26px;
+    background: url(../images/vqjack/asset_vqjack.png) no-repeat;
+    background-position: 0px 0px;
+}
+
+.vqjackpot .vqxhu_game_v2 {
+    position: absolute;
+}
+
+.vqjackpot .vqxspin {
+    width: 188px;
+    height: 188px;
+    position: absolute;
+    left: 285px;
+    top: 283px;
+    background: url(../images/vqjack/asset_vqjack.png) no-repeat;
+    background-position: -72px -0px;
+    cursor: pointer;
+    -webkit-transition: all .5s ease;
+    -o-transition: all .5s ease;
+    transition: all .5s ease;
+}
+
+.vqjackpot .vqxspin:hover {
+    filter: brightness(120%);
+}
+
+.vqjackpot .vqxspin.disable {
+    display: none;
+}
+
+.vqjackpot .titleJack {
+    width: 543px;
+    height: 219px;
+    position: absolute;
+    left: 132px;
+    top: -55px;
+    background: url(../images/vqjack/asset_vqjack.png) no-repeat;
+    background-position: -833px -0px;
+    z-index: -1;
+    animation: bubble infinite 2s linear;
+    -webkit-animation: bubble infinite 2s ease;
+}
+
+@keyframes bubble {
+    0% {
+        transform: scale(1);
+    }
+    25% {
+        transform: scale(1.1);
+    }
+    50% {
+        transform: scale(1);
+    }
+    75% {
+        transform: scale(1.1);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+@-webkit-keyframes lighteffect2 {
+    0% {
+        background-position: 0px -219px;
+    }
+    50% {
+        background-position: -756px -219px;
+    }
+    100% {
+        background-position: 0px -219px;
+    }
+}
+
+@keyframes lighteffect2 {
+    0% {
+        background-position: 0px -219px;
+    }
+    50% {
+        background-position: -756px -219px;
+    }
+    100% {
+        background-position: 0px -219px;
+    }
+}

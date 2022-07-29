@@ -1,0 +1,186 @@
+{
+  "ID": "991f5c93-cf8c-4a56-894f-e2fff839c81f",
+  "Version": "2.3.4",
+  "Name": "Chip",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 506,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "room/bgChicken.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 13,
+            "Scale9OriginY": 10,
+            "Scale9Width": 16,
+            "Scale9Height": 11,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -50.0,
+            "RightMargin": -50.0,
+            "TopMargin": -15.5,
+            "BottomMargin": -15.5,
+            "Tag": 507,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "common/iconchip.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 12,
+                "Scale9OriginY": 12,
+                "Scale9Width": 15,
+                "Scale9Height": 15,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 16.74,
+                  "Y": 15.2445
+                },
+                "Scale": {
+                  "ScaleX": 0.85,
+                  "ScaleY": 0.85
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1674,
+                  "Y": 0.4918
+                },
+                "PreSize": {
+                  "X": 0.38,
+                  "Y": 1.2258
+                },
+                "LeftMargin": -2.26,
+                "RightMargin": 64.26,
+                "TopMargin": -3.2445,
+                "BottomMargin": -3.7555,
+                "Tag": 508,
+                "ActionTag": 462595457,
+                "Size": {
+                  "X": 38.0,
+                  "Y": 38.0
+                },
+                "Name": "imgMoneyType",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "150.000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/UTMSwissBold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 64.0,
+                  "Y": 17.0888
+                },
+                "Scale": {
+                  "ScaleX": 0.92,
+                  "ScaleY": 0.92
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.64,
+                  "Y": 0.5513
+                },
+                "PreSize": {
+                  "X": 0.73,
+                  "Y": 0.9355
+                },
+                "LeftMargin": 27.5,
+                "RightMargin": -0.5,
+                "TopMargin": -0.5888,
+                "BottomMargin": 2.5888,
+                "Tag": 509,
+                "ActionTag": -1822670763,
+                "Size": {
+                  "X": 73.0,
+                  "Y": 29.0
+                },
+                "Name": "lblValue",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 841013110,
+            "ZOrder": 1,
+            "Size": {
+              "X": 100.0,
+              "Y": 31.0
+            },
+            "Name": "ImgBgrTotalGameChips",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "common/iconchip.png",
+        "fonts/UTMSwissBold.ttf",
+        "room/bgChicken.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

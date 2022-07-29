@@ -1,0 +1,36 @@
+{"frames": {
+
+"bg_xjackpot.png":
+{
+	"frame": {"x":0,"y":0,"w":659,"h":661},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":659,"h":661},
+	"sourceSize": {"w":659,"h":661}
+},
+"bg_xjackpot_mask.png":
+{
+	"frame": {"x":659,"y":0,"w":660,"h":657},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":660,"h":657},
+	"sourceSize": {"w":660,"h":657}
+},
+"txtxJack.png":
+{
+	"frame": {"x":1319,"y":0,"w":202,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":202,"h":94},
+	"sourceSize": {"w":202,"h":94}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "vq_jack.png",
+	"format": "RGBA8888",
+	"size": {"w":1521,"h":661},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:765ff402b8cb6cc83b272b3188d79a67:a13b4b5ee0d0f3a61eb494296eb2acab:ba226aea121a835f62ff56e6f73a6b81$"
+}
+}

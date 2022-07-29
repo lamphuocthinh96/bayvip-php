@@ -1,0 +1,232 @@
+#monster {
+    position: absolute;
+    top: 300px;
+    left: 300px;
+    z-index: 1;
+}
+
+#monster.active {
+    z-index: 2;
+}
+
+#monster .bg {
+    position: absolute;
+    width: 728px;
+    height: 466px;
+    background-image: url('../images/monster/mini_monster_bg.png');
+    pointer-events: none;
+}
+
+#monster .messageDig {
+    position: absolute;
+    width: 431px;
+    height: 52px;
+    line-height: 52px;
+    left: 133px;
+    top: 343px;
+    background-color: rgba(29, 16, 18, 0);
+    background-image: -webkit-linear-gradient(left, rgba(29, 16, 18, 0) 0%, rgba(29, 16, 18, 0.6) 5%, rgba(29, 16, 18, 0.6) 95%, rgba(29, 16, 18, 0) 100%);
+    background-image: linear-gradient(to right, rgba(29, 16, 18, 0) 0%, rgba(29, 16, 18, 0.8) 20%, rgba(29, 16, 18, 0.8) 80%, rgba(29, 16, 17, 0) 100%);
+    font-size: 20px;
+    text-align: center;
+    color: red;
+    font-family: roboto-bold;
+    display: none;
+    z-index: 99991;
+}
+
+#monster .messageDig:before {
+    width: 430px;
+    height: 2px;
+    background-color: rgba(29, 16, 18, 0);
+    background-image: -webkit-linear-gradient(left, rgba(29, 16, 18, 0) 0%, hsla(212, 55%, 57%, 0.8) 40%, hsla(212, 55%, 57%, 0.8) 60%, rgba(29, 16, 17, 0) 100%);
+    background-image: linear-gradient(to right, rgba(29, 16, 18, 0) 0%, hsla(212, 55%, 57%, 0.8) 40%, hsla(212, 55%, 57%, 0.8) 60%, rgba(29, 16, 17, 0) 100%);
+    position: absolute;
+    content: '';
+    left: 0px;
+    top: 0px;
+}
+
+#monster .messageDig:after {
+    width: 430px;
+    height: 2px;
+    background-color: rgba(29, 16, 18, 0);
+    background-image: -webkit-linear-gradient(left, rgba(29, 16, 18, 0) 0%, hsla(212, 55%, 57%, 0.8) 40%, hsla(212, 55%, 57%, 0.8) 60%, rgba(29, 16, 17, 0) 100%);
+    background-image: linear-gradient(to right, rgba(29, 16, 18, 0) 0%, hsla(212, 55%, 57%, 0.8) 40%, hsla(212, 55%, 57%, 0.8) 60%, rgba(29, 16, 17, 0) 100%);
+    position: absolute;
+    content: '';
+    left: 0px;
+    bottom: 0px;
+}
+
+.minimonster_game_v2 {
+    position: absolute;
+    z-index: 1;
+    left: -23px;
+    top: 4px;
+    pointer-events: none;
+    background-image: url('../images/monster/mini_monster_bg.png');
+    background-position: 25px -4px;
+    width: 728px;
+    height: 466px;
+    background-repeat: no-repeat;
+}
+
+.monster_title:after {
+    content: '';
+    position: absolute;
+    background: url(../images/monster/titlemonster.png) no-repeat;
+    width: 399px;
+    height: 107px;
+    left: 148px;
+    top: -57px;
+    z-index: 1;
+}
+
+.monster_title:before {
+    content: '';
+    position: absolute;
+    width: 272px;
+    height: 272px;
+    background: url(../images/vq.png) no-repeat;
+    -webkit-animation: rotate 10s infinite linear;
+    -moz-animation: rotate 10s infinite linear;
+    animation: rotate 10s infinite linear;
+    left: 361px;
+    top: -80px;
+}
+
+.monster_rect {
+    position: absolute;
+    left: 148px;
+    top: -110px;
+}
+
+.monster_rect .rect1 {
+    width: 340px;
+    height: 96px;
+    position: absolute;
+    background: rgb(0 0 0 / 0.01);
+    left: 75px;
+    top: 47px;
+}
+
+.monster_rect .rect2 {
+    width: 260px;
+    height: 250px;
+    position: absolute;
+    background: rgb(0 0 0 / 0.01);
+    left: 231px;
+    top: 15px;
+    border-radius: 200px;
+}
+
+.monster_rect .rect3 {
+    width: 719px;
+    height: 404px;
+    position: absolute;
+    background: rgb(0 0 0 / 0.001);
+    left: -143px;
+    top: 147px;
+    border-radius: 292px;
+}
+
+#monster .mini_close {
+    left: 654px;
+    top: 68px;
+    z-index: 2;
+}
+
+#monster .mini_help {
+    left: 670px;
+    top: 221px;
+    z-index: 2;
+}
+
+#monster .mini_history {
+    left: 670px;
+    top: 143px;
+    z-index: 2;
+}
+
+#monster .mini_rank {
+    left: 654px;
+    top: 297px;
+    z-index: 2;
+}
+
+#monster .room100 {
+    left: 0px;
+    top: 68px;
+    z-index: 2;
+}
+
+#monster .room1K {
+    left: -15px;
+    top: 143px;
+    z-index: 2;
+}
+
+#monster .room10K {
+    left: 0px;
+    top: 297px;
+    z-index: 2;
+}
+
+#monster .room5K {
+    left: -15px;
+    top: 221px;
+    z-index: 2;
+}
+
+#monster #btn_monster {
+    position: absolute;
+    top: 412px;
+    left: -8px;
+    z-index: 2;
+}
+
+#monster .btn_spin {
+    left: 441px;
+    top: 0px;
+}
+
+#monster .btn_auto {
+    left: 311px;
+    top: 0px;
+}
+
+#monster .btn_sieutoc {
+    left: 179px;
+    top: 0px;
+}
+
+#monster .btn_line {
+    left: 49px;
+    top: 0px;
+}
+
+#jackMonster {
+    font-size: 28px;
+    position: absolute;
+    color: #ff0;
+    left: 244px;
+    top: 45px;
+    width: 233px;
+    padding: 0px 44px;
+    z-index: 2;
+    text-align: left;
+}
+
+#jackMonster:before {
+    content: '';
+    background: url(../../assets/icon_B.png) no-repeat;
+    width: 75px;
+    height: 79px;
+    position: absolute;
+    background-size: 63%;
+    -webkit-background-size: 63%;
+    -moz-background-size: 63%;
+    left: -10px;
+    top: -4px;
+}

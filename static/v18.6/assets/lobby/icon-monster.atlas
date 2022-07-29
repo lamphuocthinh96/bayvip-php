@@ -1,0 +1,83 @@
+
+icon-monster.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 88
+  size: 234, 81
+  orig: 234, 81
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 171
+  size: 287, 280
+  orig: 287, 280
+  offset: 0, 0
+  index: -1
+duoi
+  rotate: false
+  xy: 2, 30
+  size: 103, 56
+  orig: 103, 56
+  offset: 0, 0
+  index: -1
+matphai
+  rotate: false
+  xy: 238, 139
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+mattrai
+  rotate: false
+  xy: 2, 2
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+nam
+  rotate: false
+  xy: 107, 61
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+taiphai
+  rotate: false
+  xy: 395, 420
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+taitrai
+  rotate: false
+  xy: 291, 322
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+tayphai
+  rotate: false
+  xy: 269, 154
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+taytrai
+  rotate: false
+  xy: 238, 121
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 291, 355
+  size: 102, 96
+  orig: 102, 96
+  offset: 0, 0
+  index: -1

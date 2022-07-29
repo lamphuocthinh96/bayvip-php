@@ -1,0 +1,83 @@
+
+map2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dao1
+  rotate: true
+  xy: 1489, 1141
+  size: 325, 329
+  orig: 325, 329
+  offset: 0, 0
+  index: -1
+dao2
+  rotate: false
+  xy: 378, 1177
+  size: 376, 289
+  orig: 376, 289
+  offset: 0, 0
+  index: -1
+dao3
+  rotate: false
+  xy: 2, 1074
+  size: 374, 392
+  orig: 374, 392
+  offset: 0, 0
+  index: -1
+dao4
+  rotate: true
+  xy: 2, 2
+  size: 308, 290
+  orig: 308, 290
+  offset: 0, 0
+  index: -1
+dao5
+  rotate: true
+  xy: 2, 312
+  size: 348, 300
+  orig: 348, 300
+  offset: 0, 0
+  index: -1
+dao6
+  rotate: true
+  xy: 2, 662
+  size: 410, 306
+  orig: 410, 306
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 2, 1468
+  size: 1866, 567
+  orig: 1866, 567
+  offset: 0, 0
+  index: -1
+wave1
+  rotate: false
+  xy: 378, 984
+  size: 315, 191
+  orig: 315, 191
+  offset: 0, 0
+  index: -1
+wave2
+  rotate: false
+  xy: 1133, 1187
+  size: 354, 279
+  orig: 354, 279
+  offset: 0, 0
+  index: -1
+wave3
+  rotate: false
+  xy: 756, 1195
+  size: 375, 271
+  orig: 375, 271
+  offset: 0, 0
+  index: -1
+wave4
+  rotate: false
+  xy: 310, 782
+  size: 312, 200
+  orig: 312, 200
+  offset: 0, 0
+  index: -1

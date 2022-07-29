@@ -1,0 +1,41 @@
+
+icon_kong.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7
+  rotate: false
+  xy: 604, 153
+  size: 162, 162
+  orig: 162, 162
+  offset: 0, 0
+  index: -1
+bg
+  rotate: true
+  xy: 2, 154
+  size: 292, 600
+  orig: 292, 600
+  offset: 0, 0
+  index: -1
+bg_jackpot
+  rotate: false
+  xy: 604, 317
+  size: 235, 129
+  orig: 235, 129
+  offset: 0, 0
+  index: -1
+mat
+  rotate: false
+  xy: 2, 2
+  size: 74, 27
+  orig: 74, 27
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 2, 31
+  size: 258, 121
+  orig: 258, 121
+  offset: 0, 0
+  index: -1

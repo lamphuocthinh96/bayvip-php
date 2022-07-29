@@ -1,0 +1,95 @@
+{"frames": {
+
+"islanditem1.png":
+{
+	"frame": {"x":0,"y":0,"w":115,"h":133},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":133},
+	"sourceSize": {"w":115,"h":133}
+},
+"islanditem1_blur.png":
+{
+	"frame": {"x":0,"y":133,"w":115,"h":133},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":133},
+	"sourceSize": {"w":115,"h":133}
+},
+"islanditem2.png":
+{
+	"frame": {"x":0,"y":266,"w":115,"h":133},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":133},
+	"sourceSize": {"w":115,"h":133}
+},
+"islanditem2_blur.png":
+{
+	"frame": {"x":0,"y":399,"w":115,"h":133},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":133},
+	"sourceSize": {"w":115,"h":133}
+},
+"islanditem3.png":
+{
+	"frame": {"x":0,"y":532,"w":115,"h":133},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":133},
+	"sourceSize": {"w":115,"h":133}
+},
+"islanditem3_blur.png":
+{
+	"frame": {"x":0,"y":665,"w":115,"h":133},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":133},
+	"sourceSize": {"w":115,"h":133}
+},
+"islanditem4.png":
+{
+	"frame": {"x":0,"y":798,"w":115,"h":133},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":133},
+	"sourceSize": {"w":115,"h":133}
+},
+"islanditem4_blur.png":
+{
+	"frame": {"x":0,"y":931,"w":115,"h":133},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":133},
+	"sourceSize": {"w":115,"h":133}
+},
+"islanditem5.png":
+{
+	"frame": {"x":0,"y":1064,"w":115,"h":133},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":133},
+	"sourceSize": {"w":115,"h":133}
+},
+"islanditem5_blur.png":
+{
+	"frame": {"x":0,"y":1197,"w":115,"h":133},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":133},
+	"sourceSize": {"w":115,"h":133}
+}},
+"animations": {
+	"islanditem": ["islanditem1.png","islanditem2.png","islanditem3.png","islanditem4.png","islanditem5.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "items.png",
+	"format": "RGBA8888",
+	"size": {"w":115,"h":1330},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f468268f10506d4cc3a5d8fcd757cd9d:2966f732f74923822eefc5731761c2b5:110e074689c9edd2c54833ce2e4d9270$"
+}
+}

@@ -1,0 +1,13 @@
+
+xocxoc_Bat.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bat
+  rotate: false
+  xy: 2, 2
+  size: 380, 380
+  orig: 380, 380
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,2 @@
+<?php
+echo '{"TopNotyfi":[{"NickName":"hoangtujo","WinMoney":49500000,"TimeWin":"0001-01-01T00:00:00","GameName":"Tài xỉu"},{"NickName":"binh727272","WinMoney":37224000,"TimeWin":"0001-01-01T00:00:00","GameName":"Tài xỉu"},{"NickName":"diadondau","WinMoney":36630000,"TimeWin":"0001-01-01T00:00:00","GameName":"Tài xỉu"},{"NickName":"gfgbg","WinMoney":34650000,"TimeWin":"0001-01-01T00:00:00","GameName":"Tài xỉu"},{"NickName":"nhanvantos","WinMoney":32670000,"TimeWin":"0001-01-01T00:00:00","GameName":"Tài xỉu"}]}';

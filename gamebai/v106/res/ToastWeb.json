@@ -1,0 +1,196 @@
+{
+  "ID": "724a56e2-9d3a-47de-9a33-068bac5b6dbc",
+  "Version": "2.3.4",
+  "Name": "ToastWeb",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 93,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 137,
+            "SingleColor": {},
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 0.6,
+              "ScaleY": 0.6
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 2.5352,
+              "Y": 0.2344
+            },
+            "LeftMargin": -872.0,
+            "RightMargin": -872.0,
+            "TopMargin": 245.0,
+            "BottomMargin": 245.0,
+            "Tag": 1709,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "common/bg_message.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 133,
+                "Scale9OriginY": 11,
+                "Scale9Width": 139,
+                "Scale9Height": 14,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1440.7467,
+                  "Y": 74.5585
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5003,
+                  "Y": 0.4971
+                },
+                "PreSize": {
+                  "X": 0.4861,
+                  "Y": 0.8
+                },
+                "LeftMargin": 740.7467,
+                "RightMargin": 739.2534,
+                "TopMargin": 15.4415,
+                "BottomMargin": 14.5585,
+                "Tag": 4657,
+                "ActionTag": -415009036,
+                "Size": {
+                  "X": 1400.0,
+                  "Y": 120.0
+                },
+                "Name": "Image_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 35,
+                "LabelText": "Khong ket noi duoc voi may chu. Vui long kiem tra lai ket noi mangKhong ket noi duoc voi may chu. Vui long kiem tra lai ket noi mang",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/UTMSwiss.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1440.0,
+                  "Y": 75.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PercentHeightEnable": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 0.4167,
+                  "Y": 0.8
+                },
+                "LeftMargin": 840.0,
+                "RightMargin": 840.0,
+                "TopMargin": 15.0,
+                "BottomMargin": 15.0,
+                "Tag": 198,
+                "ActionTag": 59739484,
+                "ZOrder": 1,
+                "Size": {
+                  "X": 1200.0,
+                  "Y": 120.0
+                },
+                "Name": "lblContent",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1590619919,
+            "Size": {
+              "X": 2880.0,
+              "Y": 150.0
+            },
+            "Name": "pnlMid",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "UiEntity22265380",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "common/bg_message.png",
+        "fonts/UTMSwiss.ttf"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

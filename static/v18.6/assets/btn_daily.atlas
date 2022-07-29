@@ -1,0 +1,48 @@
+
+btn_daily.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+15
+  rotate: false
+  xy: 2, 55
+  size: 451, 452
+  orig: 451, 452
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 455, 90
+  size: 211, 211
+  orig: 211, 211
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 668, 139
+  size: 162, 162
+  orig: 162, 162
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 455, 303
+  size: 413, 204
+  orig: 413, 204
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 2, 2
+  size: 148, 51
+  orig: 148, 51
+  offset: 0, 0
+  index: -1
+txt
+  rotate: true
+  xy: 870, 304
+  size: 203, 94
+  orig: 203, 94
+  offset: 0, 0
+  index: -1

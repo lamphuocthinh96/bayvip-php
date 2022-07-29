@@ -1,0 +1,41 @@
+
+mini_nohu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 491, 211
+  size: 506, 292
+  orig: 506, 292
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 2
+  size: 487, 501
+  orig: 487, 501
+  offset: 0, 0
+  index: -1
+light_1
+  rotate: false
+  xy: 491, 24
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+star_6
+  rotate: false
+  xy: 764, 160
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 491, 94
+  size: 271, 115
+  orig: 271, 115
+  offset: 0, 0
+  index: -1

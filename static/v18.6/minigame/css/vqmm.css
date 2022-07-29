@@ -1,0 +1,640 @@
+.vip_vqmm {
+    position: relative;
+    width: 1296px;
+    height: 889px;
+    top: 40px;
+    margin: auto;
+}
+
+.top_vqmm {
+    position: absolute;
+    width: 772px;
+    height: 100px;
+    top: 0px;
+    left: 260px;
+    background: url('../images/vqmm/vqmm_asset.png') no-repeat;
+    background-position: 0px -570px;
+    -webkit-animation: animatetop 0.4s;
+    -moz-animation: animatetop 0.4s;
+    animation: animatetop 0.4s;
+}
+
+.top_vqmm.active {
+    -webkit-animation: removeanimatetop 0.4s;
+    -moz-animation: removeanimatetop 0.4s;
+    animation: removeanimatetop 0.4s;
+    top: -10000px;
+}
+
+.top_vqmm span {
+    position: absolute;
+    width: 214px;
+    height: 40px;
+    line-height: 40px;
+    top: 44px;
+    color: #ffff00;
+    font-size: 26px;
+    text-align: center;
+}
+
+.top_vqmm span:nth-child(1) {
+    left: 52px;
+}
+
+.top_vqmm span:nth-child(2) {
+    left: 279px;
+}
+
+.top_vqmm span:nth-child(3) {
+    left: 507px;
+}
+
+.left_vqmm {
+    position: absolute;
+    width: 324px;
+    height: 488px;
+    top: 186px;
+    left: 0px;
+    background: url('../images/vqmm/vqmm_asset.png') no-repeat;
+    background-position: 0px 0px;
+    -webkit-animation: animateleft 0.4s;
+    -moz-animation: animateleft 0.4s;
+    animation: animateleft 0.4s
+}
+
+.left_vqmm.active {
+    -webkit-animation: removeanimateleft 0.4s;
+    -moz-animation: removeanimateleft 0.4s;
+    animation: removeanimateleft 0.4s;
+    left: -10000px;
+}
+
+.left_vqmm .t_left {
+    position: absolute;
+    width: 75px;
+    height: 41px;
+    top: -30px;
+    left: 120px;
+    background: url(../images/vqmm/vqmm_asset.png) no-repeat;
+    background-position: -241px -670px;
+}
+
+.left_vqmm ul {
+    position: absolute;
+    width: 324px;
+    height: 482px;
+    top: 13px;
+    left: 0px;
+}
+
+.left_vqmm ul li {
+    position: relative;
+    margin: auto;
+    width: 298px;
+    height: 46px;
+    background: rgb(21 34 93 / 0.7);
+    border-radius: 26px;
+    margin-top: 5px;
+}
+
+.left_vqmm ul li.active {
+    background: #fffd00;
+    background: -moz-linear-gradient(top, #fffd00 0%, #c38a2f 100%);
+    background: -webkit-linear-gradient(top, #fffd00 0%, #c38a2f 100%);
+    background: linear-gradient(to bottom, #fffd00 0%, #c38a2f 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fffd00', endColorstr='#c38a2f', GradientType=0);
+    -webkit-box-shadow: -2px 2px 24px 2px rgba(0, 0, 0, 1);
+    -moz-box-shadow: -2px 2px 24px 2px rgba(0, 0, 0, 1);
+    box-shadow: -2px 2px 24px 2px rgba(0, 0, 0, 1);
+}
+
+.left_vqmm .v_vip {
+    position: absolute;
+    left: 17px;
+    top: 2px;
+    background: url(../images/vqmm/vqmm_asset.png) no-repeat;
+}
+
+.left_vqmm .v_vip.v1 {
+    width: 40px;
+    height: 45px;
+    background-position: -316px -670px;
+}
+
+.left_vqmm .v_vip.v2 {
+    width: 42px;
+    height: 45px;
+    background-position: -356px -670px;
+}
+
+.left_vqmm .v_vip.v3 {
+    width: 43px;
+    height: 48px;
+    background-position: -398px -670px
+}
+
+.left_vqmm .v_vip.v4 {
+    width: 43px;
+    height: 45px;
+    background-position: -441px -670px;
+}
+
+.left_vqmm .v_vip.v5 {
+    width: 46px;
+    height: 46px;
+    background-position: -484px -670px;
+}
+
+.left_vqmm .v_vip.v6 {
+    width: 43px;
+    height: 41px;
+    background-position: -530px -670px;
+}
+
+.left_vqmm .v_vip.v7 {
+    width: 45px;
+    height: 44px;
+    background-position: -573px -670px;
+}
+
+.left_vqmm .v_vip.v8 {
+    width: 46px;
+    height: 45px;
+    background-position: -618px -670px;
+}
+
+.left_vqmm .v_vip.v9 {
+    width: 47px;
+    height: 43px;
+    background-position: -664px -670px;
+}
+
+.left_vqmm .v_vip_text {
+    position: absolute;
+    color: #ffffff;
+    left: 72px;
+    font-size: 22px;
+    height: 40px;
+    line-height: 40px;
+}
+
+.left_vqmm .v_vip_number {
+    position: absolute;
+    color: #ffdc00;
+    left: 255px;
+    font-size: 22px;
+    height: 40px;
+    line-height: 40px;
+    font-weight: bold;
+}
+
+.right_vqmm {
+    position: absolute;
+    width: 324px;
+    height: 488px;
+    top: 186px;
+    right: 0px;
+    background: url('../images/vqmm/vqmm_asset.png') no-repeat;
+    background-position: 0px 0px;
+    -webkit-animation: animateright 0.4s;
+    -moz-animation: animateright 0.4s;
+    animation: animateright 0.4s
+}
+
+.right_vqmm.active {
+    -webkit-animation: removeanimateright 0.4s;
+    -moz-animation: removeanimateright 0.4s;
+    animation: removeanimateright 0.4s;
+    right: -1000px;
+}
+
+.right_vqmm .t_right {
+    position: absolute;
+    width: 241px;
+    height: 41px;
+    top: -30px;
+    right: 39px;
+    background: url('../images/vqmm/vqmm_asset.png') no-repeat;
+    background-position: 0px -670px;
+}
+
+.right_vqmm .topRank {
+    width: 320px;
+    height: 473px;
+    position: relative;
+    top: 0px;
+    right: 0px;
+    padding: 20px;
+    font-size: 22px;
+    color: #d6d8e4;
+    overflow: hidden;
+}
+
+.right_vqmm ul {
+    position: absolute;
+    width: 324px;
+    height: 488px;
+    top: 0px;
+    right: 0px;
+    padding: 20px;
+    font-size: 22px;
+    color: #d6d8e4;
+    overflow: hidden;
+}
+
+.right_vqmm .v_user {
+    color: #ff9900;
+}
+
+.right_vqmm .v_money {
+    color: #ffff00;
+    font-weight: bold;
+}
+
+.right_vqmm .v_point {
+    color: #cc00ff;
+    font-weight: bold;
+}
+
+.right_vqmm .v_jack {
+    color: #ff0000;
+    font-weight: bold;
+}
+
+.botton_vqmm {
+    position: absolute;
+    bottom: 0px;
+    -webkit-animation: animatebottom 0.4s;
+    -moz-animation: animatebottom 0.4s;
+    animation: animatebottom 0.4s;
+}
+
+.botton_vqmm.active {
+    -webkit-animation: removeanimatebottom 0.4s;
+    -moz-animation: removeanimatebottom 0.4s;
+    animation: removeanimatebottom 0.4s;
+    bottom: -1000px;
+}
+
+.botton_vqmm .vq_reslut {
+    position: absolute;
+    width: 559px;
+    height: 80px;
+    left: 315px;
+    line-height: 75px;
+    top: -124px;
+    background: url(../images/vqmm/vqmm_asset.png) no-repeat;
+    background-position: -238px -488px;
+    text-align: center;
+    color: #ffff00;
+    font-size: 38px;
+}
+
+.botton_vqmm .btn_spin_vq {
+    position: absolute;
+    width: 238px;
+    height: 82px;
+    background: url(../images/vqmm/vqmm_asset.png) no-repeat;
+    background-position: -324px -0px;
+    top: -129px;
+    left: 896px;
+    cursor: pointer;
+}
+
+.botton_vqmm .btn_spin_vq.disable {
+    pointer-events: none;
+    background-position: 0px -488px;
+}
+
+.botton_vqmm .btn_spin_vq:hover {
+    filter: brightness(120%);
+}
+
+.botton_vqmm .count_spin_vq {
+    position: absolute;
+    width: 238px;
+    height: 50px;
+    background: #e9a107;
+    line-height: 46px;
+    bottom: -5px;
+    left: 896px;
+    border-radius: 39px;
+    font-size: 26px;
+    text-align: center;
+}
+
+.vqmm_game_v2 {
+    position: absolute;
+    width: 756px;
+    height: 756px;
+    top: 51px;
+    left: 246px;
+    animation: opac 0.4s;
+    z-index: -1;
+}
+
+@-moz-keyframes animatetop {
+    from {
+        top: -300px;
+        opacity: 0
+    }
+    to {
+        top: 0;
+        opacity: 1
+    }
+}
+
+@-webkit-keyframes animatetop {
+    from {
+        top: -300px;
+        opacity: 0
+    }
+    to {
+        top: 0;
+        opacity: 1
+    }
+}
+
+@keyframes animatetop {
+    from {
+        top: -300px;
+        opacity: 0
+    }
+    to {
+        top: 0;
+        opacity: 1
+    }
+}
+
+@-moz-keyframes removeanimatetop {
+    from {
+        top: 0;
+        opacity: 1
+    }
+    to {
+        top: -300px;
+        opacity: 0
+    }
+}
+
+@-webkit-keyframes removeanimatetop {
+    from {
+        top: 0;
+        opacity: 1
+    }
+    to {
+        top: -300px;
+        opacity: 0
+    }
+}
+
+@keyframes removeanimatetop {
+    from {
+        top: 0;
+        opacity: 1
+    }
+    to {
+        top: -300px;
+        opacity: 0
+    }
+}
+
+@-webkit-keyframes animateleft {
+    from {
+        left: -300px;
+        opacity: 0
+    }
+    to {
+        left: 0;
+        opacity: 1
+    }
+}
+
+@-moz-keyframes animateleft {
+    from {
+        left: -300px;
+        opacity: 0
+    }
+    to {
+        left: 0;
+        opacity: 1
+    }
+}
+
+@keyframes animateleft {
+    from {
+        left: -300px;
+        opacity: 0
+    }
+    to {
+        left: 0;
+        opacity: 1
+    }
+}
+
+@-webkit-keyframes removeanimateleft {
+    from {
+        left: 0;
+        opacity: 1
+    }
+    to {
+        left: -300px;
+        opacity: 0
+    }
+}
+
+@-moz-keyframes removeanimateleft {
+    from {
+        left: 0;
+        opacity: 1
+    }
+    to {
+        left: -300px;
+        opacity: 0
+    }
+}
+
+@keyframes removeanimateleft {
+    from {
+        left: 0;
+        opacity: 1
+    }
+    to {
+        left: -300px;
+        opacity: 0
+    }
+}
+
+@-moz-keyframes animateright {
+    from {
+        right: -300px;
+        opacity: 0
+    }
+    to {
+        right: 0;
+        opacity: 1
+    }
+}
+
+@-webkit-keyframes animateright {
+    from {
+        right: -300px;
+        opacity: 0
+    }
+    to {
+        right: 0;
+        opacity: 1
+    }
+}
+
+@keyframes animateright {
+    from {
+        right: -300px;
+        opacity: 0
+    }
+    to {
+        right: 0;
+        opacity: 1
+    }
+}
+
+@-moz-keyframes removeanimateright {
+    from {
+        right: 0;
+        opacity: 1
+    }
+    to {
+        right: -300px;
+        opacity: 0
+    }
+}
+
+@-webkit-keyframes removeanimateright {
+    from {
+        right: 0;
+        opacity: 1
+    }
+    to {
+        right: -300px;
+        opacity: 0
+    }
+}
+
+@keyframes removeanimateright {
+    from {
+        right: 0;
+        opacity: 1
+    }
+    to {
+        right: -300px;
+        opacity: 0
+    }
+}
+
+@-moz-keyframes animatebottom {
+    from {
+        bottom: -300px;
+        opacity: 0
+    }
+    to {
+        bottom: 0;
+        opacity: 1
+    }
+}
+
+@-webkit-keyframes animatebottom {
+    from {
+        bottom: -300px;
+        opacity: 0
+    }
+    to {
+        bottom: 0;
+        opacity: 1
+    }
+}
+
+@keyframes animatebottom {
+    from {
+        bottom: -300px;
+        opacity: 0
+    }
+    to {
+        bottom: 0;
+        opacity: 1
+    }
+}
+
+@-moz-keyframes removeanimatebottom {
+    from {
+        bottom: 0;
+        opacity: 1
+    }
+    to {
+        bottom: -300px;
+        opacity: 0
+    }
+}
+
+@-webkit-keyframes removeanimatebottom {
+    from {
+        bottom: 0;
+        opacity: 1
+    }
+    to {
+        bottom: -300px;
+        opacity: 0
+    }
+}
+
+@keyframes removeanimatebottom {
+    from {
+        bottom: 0;
+        opacity: 1
+    }
+    to {
+        bottom: -300px;
+        opacity: 0
+    }
+}
+
+@-webkit-keyframes opac {
+    from {
+        opacity: 0
+    }
+    to {
+        opacity: 1
+    }
+}
+
+@-moz-keyframes opac {
+    from {
+        opacity: 0
+    }
+    to {
+        opacity: 1
+    }
+}
+
+@keyframes opac {
+    from {
+        opacity: 0
+    }
+    to {
+        opacity: 1
+    }
+}
+
+.vqmm_close {
+    width: 69px;
+    height: 71px;
+    background-image: url(../images/asset_button.png);
+    background-position: 0px -360px;
+    position: absolute;
+    top: 68px;
+    right: 122px;
+    cursor: pointer;
+}
+
+.vqmm_close:hover {
+    filter: brightness(120%);
+}

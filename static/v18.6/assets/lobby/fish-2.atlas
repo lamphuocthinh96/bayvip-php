@@ -1,0 +1,167 @@
+
+fish-2.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: true
+  xy: 2, 35
+  size: 219, 467
+  orig: 219, 467
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 927, 43
+  size: 211, 384
+  orig: 211, 384
+  offset: 0, 0
+  index: -1
+bubble
+  rotate: false
+  xy: 1981, 47
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+bullet1
+  rotate: true
+  xy: 1718, 15
+  size: 96, 140
+  orig: 96, 140
+  offset: 0, 0
+  index: -1
+bullet2
+  rotate: false
+  xy: 1941, 69
+  size: 91, 45
+  orig: 91, 45
+  offset: 0, 0
+  index: -1
+cigar
+  rotate: false
+  xy: 2, 3
+  size: 61, 30
+  orig: 61, 30
+  offset: 0, 0
+  index: -1
+explode
+  rotate: false
+  xy: 1313, 30
+  size: 240, 224
+  orig: 240, 224
+  offset: 0, 0
+  index: -1
+eye_left
+  rotate: false
+  xy: 1621, 2
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+eye_left_bottom
+  rotate: false
+  xy: 1885, 9
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+eye_left_top
+  rotate: false
+  xy: 65, 12
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+eye_right
+  rotate: false
+  xy: 1860, 2
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+eye_right_bottom
+  rotate: false
+  xy: 1592, 22
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+eye_right_top
+  rotate: true
+  xy: 1555, 2
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+fire
+  rotate: false
+  xy: 1941, 39
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+firefly1
+  rotate: false
+  xy: 2004, 52
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+firefly2
+  rotate: false
+  xy: 1623, 25
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+firefly3
+  rotate: false
+  xy: 94, 17
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+firefly4
+  rotate: false
+  xy: 1592, 2
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+frame
+  rotate: true
+  xy: 471, 43
+  size: 211, 454
+  orig: 211, 454
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 1804, 116
+  size: 240, 138
+  orig: 240, 138
+  offset: 0, 0
+  index: -1
+hand_left
+  rotate: false
+  xy: 1860, 26
+  size: 79, 88
+  orig: 79, 88
+  offset: 0, 0
+  index: -1
+hand_right
+  rotate: true
+  xy: 1555, 41
+  size: 70, 161
+  orig: 70, 161
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1555, 113
+  size: 247, 141
+  orig: 247, 141
+  offset: 0, 0
+  index: -1

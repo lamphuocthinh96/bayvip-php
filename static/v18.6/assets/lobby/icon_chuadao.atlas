@@ -1,0 +1,62 @@
+
+icon_chuadao.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+canh tay
+  rotate: false
+  xy: 848, 429
+  size: 137, 81
+  orig: 137, 81
+  offset: 0, 0
+  index: -1
+e
+  rotate: true
+  xy: 278, 275
+  size: 235, 283
+  orig: 235, 283
+  offset: 0, 0
+  index: -1
+kingdom/banner
+  rotate: false
+  xy: 2, 116
+  size: 253, 119
+  orig: 253, 119
+  offset: 0, 0
+  index: -1
+kingdom/bg
+  rotate: false
+  xy: 2, 237
+  size: 274, 273
+  orig: 274, 273
+  offset: 0, 0
+  index: -1
+kingdom/text
+  rotate: false
+  xy: 2, 43
+  size: 250, 71
+  orig: 250, 71
+  offset: 0, 0
+  index: -1
+rau
+  rotate: true
+  xy: 2, 2
+  size: 39, 56
+  orig: 39, 56
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 563, 275
+  size: 235, 283
+  orig: 235, 283
+  offset: 0, 0
+  index: -1
+toc
+  rotate: false
+  xy: 848, 350
+  size: 104, 77
+  orig: 104, 77
+  offset: 0, 0
+  index: -1

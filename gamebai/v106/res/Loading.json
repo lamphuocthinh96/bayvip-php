@@ -1,0 +1,302 @@
+{
+  "ID": "7f730484-a3b1-476f-bf4f-4a29272b4ca9",
+  "Version": "2.3.4",
+  "Name": "Loading",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 386,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "dialog/loading-bullet.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 6,
+            "Scale9OriginY": 6,
+            "Scale9Width": 8,
+            "Scale9Height": 8,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -65.0065,
+              "Y": -0.0583
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -75.0065,
+            "RightMargin": 55.0065,
+            "TopMargin": -9.9417,
+            "BottomMargin": -10.0583,
+            "Tag": 405,
+            "ActionTag": 1169326000,
+            "Size": {
+              "X": 20.0,
+              "Y": 20.0
+            },
+            "Name": "imgLoading1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "dialog/loading-bullet.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 6,
+            "Scale9OriginY": 6,
+            "Scale9Width": 8,
+            "Scale9Height": 8,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -39.0066,
+              "Y": -0.0584
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -49.0066,
+            "RightMargin": 29.0066,
+            "TopMargin": -9.9416,
+            "BottomMargin": -10.0584,
+            "Tag": 415,
+            "ActionTag": -20706425,
+            "Size": {
+              "X": 20.0,
+              "Y": 20.0
+            },
+            "Name": "imgLoading2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "dialog/loading-bullet.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 6,
+            "Scale9OriginY": 6,
+            "Scale9Width": 8,
+            "Scale9Height": 8,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -13.0065,
+              "Y": -0.0584
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -23.0065,
+            "RightMargin": 3.0065,
+            "TopMargin": -9.9416,
+            "BottomMargin": -10.0584,
+            "Tag": 416,
+            "ActionTag": 848418610,
+            "Size": {
+              "X": 20.0,
+              "Y": 20.0
+            },
+            "Name": "imgLoading3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "dialog/loading-bullet.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 6,
+            "Scale9OriginY": 6,
+            "Scale9Width": 8,
+            "Scale9Height": 8,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 12.9933,
+              "Y": -0.0584
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 2.9933,
+            "RightMargin": -22.9933,
+            "TopMargin": -9.9416,
+            "BottomMargin": -10.0584,
+            "Tag": 417,
+            "ActionTag": 1205234035,
+            "Size": {
+              "X": 20.0,
+              "Y": 20.0
+            },
+            "Name": "imgLoading4",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "dialog/loading-bullet.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 6,
+            "Scale9OriginY": 6,
+            "Scale9Width": 8,
+            "Scale9Height": 8,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 38.9934,
+              "Y": -0.0584
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 28.9934,
+            "RightMargin": -48.9934,
+            "TopMargin": -9.9416,
+            "BottomMargin": -10.0584,
+            "Tag": 418,
+            "ActionTag": -1804533078,
+            "Size": {
+              "X": 20.0,
+              "Y": 20.0
+            },
+            "Name": "imgLoading5",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "dialog/loading-bullet.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 6,
+            "Scale9OriginY": 6,
+            "Scale9Width": 8,
+            "Scale9Height": 8,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 64.9932,
+              "Y": -0.0584
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 54.9932,
+            "RightMargin": -74.9932,
+            "TopMargin": -9.9416,
+            "BottomMargin": -10.0584,
+            "Tag": 419,
+            "ActionTag": 615633732,
+            "Size": {
+              "X": 20.0,
+              "Y": 20.0
+            },
+            "Name": "imgLoading6",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "dialog/loading-bullet.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

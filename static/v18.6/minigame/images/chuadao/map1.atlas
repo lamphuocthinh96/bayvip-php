@@ -1,0 +1,188 @@
+
+map1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Roadmap
+  rotate: false
+  xy: 2, 1220
+  size: 1946, 758
+  orig: 1946, 758
+  offset: 0, 0
+  index: -1
+dao1
+  rotate: false
+  xy: 484, 510
+  size: 147, 177
+  orig: 147, 177
+  offset: 0, 0
+  index: -1
+dao1-wave
+  rotate: true
+  xy: 633, 505
+  size: 182, 101
+  orig: 182, 101
+  offset: 0, 0
+  index: -1
+dao2
+  rotate: false
+  xy: 374, 843
+  size: 235, 183
+  orig: 235, 183
+  offset: 0, 0
+  index: -1
+dao2-wave
+  rotate: false
+  xy: 1407, 1109
+  size: 274, 109
+  orig: 274, 109
+  offset: 0, 0
+  index: -1
+dao3
+  rotate: false
+  xy: 611, 830
+  size: 212, 196
+  orig: 212, 196
+  offset: 0, 0
+  index: -1
+dao3-wave1
+  rotate: false
+  xy: 1058, 1001
+  size: 219, 101
+  orig: 219, 101
+  offset: 0, 0
+  index: -1
+dao4-wave1
+  rotate: false
+  xy: 1058, 1001
+  size: 219, 101
+  orig: 219, 101
+  offset: 0, 0
+  index: -1
+dao3-wave2
+  rotate: false
+  xy: 1683, 1080
+  size: 249, 138
+  orig: 249, 138
+  offset: 0, 0
+  index: -1
+dao4
+  rotate: false
+  xy: 2, 201
+  size: 225, 262
+  orig: 225, 262
+  offset: 0, 0
+  index: -1
+dao4-wave2
+  rotate: true
+  xy: 229, 217
+  size: 246, 146
+  orig: 246, 146
+  offset: 0, 0
+  index: -1
+dao5
+  rotate: false
+  xy: 2, 2
+  size: 223, 197
+  orig: 223, 197
+  offset: 0, 0
+  index: -1
+dao5-wave1
+  rotate: false
+  xy: 1015, 876
+  size: 213, 123
+  orig: 213, 123
+  offset: 0, 0
+  index: -1
+dao5-wave2
+  rotate: false
+  xy: 575, 689
+  size: 232, 139
+  orig: 232, 139
+  offset: 0, 0
+  index: -1
+dao6
+  rotate: false
+  xy: 825, 868
+  size: 188, 196
+  orig: 188, 196
+  offset: 0, 0
+  index: -1
+dao6-wave1
+  rotate: true
+  xy: 1934, 1024
+  size: 194, 112
+  orig: 194, 112
+  offset: 0, 0
+  index: -1
+dao6-wave2
+  rotate: false
+  xy: 339, 694
+  size: 234, 147
+  orig: 234, 147
+  offset: 0, 0
+  index: -1
+dao7
+  rotate: false
+  xy: 302, 491
+  size: 180, 201
+  orig: 180, 201
+  offset: 0, 0
+  index: -1
+dao7-wave1
+  rotate: true
+  xy: 1950, 1791
+  size: 187, 90
+  orig: 187, 90
+  offset: 0, 0
+  index: -1
+dao7-wave2
+  rotate: true
+  xy: 377, 264
+  size: 225, 142
+  orig: 225, 142
+  offset: 0, 0
+  index: -1
+dao8
+  rotate: false
+  xy: 2, 465
+  size: 298, 273
+  orig: 298, 273
+  offset: 0, 0
+  index: -1
+dao8-wave1
+  rotate: false
+  xy: 744, 1066
+  size: 312, 152
+  orig: 312, 152
+  offset: 0, 0
+  index: -1
+dao8-wave2
+  rotate: false
+  xy: 2, 740
+  size: 335, 245
+  orig: 335, 245
+  offset: 0, 0
+  index: -1
+dao9
+  rotate: false
+  xy: 2, 987
+  size: 370, 231
+  orig: 370, 231
+  offset: 0, 0
+  index: -1
+dao9-1
+  rotate: false
+  xy: 1058, 1104
+  size: 347, 114
+  orig: 347, 114
+  offset: 0, 0
+  index: -1
+dao9-2
+  rotate: false
+  xy: 374, 1028
+  size: 368, 190
+  orig: 368, 190
+  offset: 0, 0
+  index: -1

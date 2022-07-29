@@ -1,0 +1,36 @@
+{"frames": {
+
+"dr_bgtime.png":
+{
+	"frame": {"x":0,"y":0,"w":285,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":285,"h":170},
+	"sourceSize": {"w":285,"h":170}
+},
+"dr_card.png":
+{
+	"frame": {"x":285,"y":0,"w":106,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":146},
+	"sourceSize": {"w":106,"h":146}
+},
+"dr_hoa.png":
+{
+	"frame": {"x":391,"y":0,"w":155,"h":157},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":155,"h":157},
+	"sourceSize": {"w":155,"h":157}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "dragon_asset.png",
+	"format": "RGBA8888",
+	"size": {"w":546,"h":170},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d6480200f86c07d0e220f4f656883f15:123a5e7ca5c731b9e0ad7fc3941685fb:767e46441088ff2134210f382b2f7025$"
+}
+}

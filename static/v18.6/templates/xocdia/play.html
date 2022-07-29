@@ -1,0 +1,104 @@
+<div class="minigame-popup" id="xocdia">
+    <div class="xocdia-game-block" style="z-index: 121;" id="parentpop">
+        <div class="mini_close"></div>
+        <div class="mini_help"></div>
+        <div class="mini_rank"></div>
+        <div class="mini_history"></div>
+        <div class="mini_static"></div>
+        <div class="mini_nan"></div>
+        <div class="mini_chat"></div>
+
+        <div class="sessionXocdia">#0</div>
+
+        <div class="location tai"></div>
+        <div class="location xiu"></div>
+        <div id="xd_totalbetOver">0</div>
+        <div id="xd_totalcountBetOver">0</div>
+        <div id="xd_totalbetUnder">0</div>
+        <div id="xd_totalcountBetUnder">0</div>
+        <div id="xd_betpersonOver">0</div>
+        <div id="xd_betpersonUnder">0</div>
+
+
+        <div class="lucky_rect">
+            <div class="rect1"></div>
+            <div class="rect2"></div>
+            <div class="rect3"></div>
+
+        </div>
+
+        <div class="xocdia_game_v2">
+        </div>
+
+        <div class="xd_timewaiting" style="display: none;">00:00</div>
+
+        <div class="tips">
+            <div class="tipsoverlayXd"></div>
+        </div>
+
+        <div class="statistic-tx">
+            <div class="left-statistic-tx"></div>
+            <div class="right-statistic-tx"></div>
+        </div>
+
+
+        <div class="column-price">
+            <div class="column-number">
+
+
+                <p class="row-2">
+                    <input id="xdbetpersonOver" maxlength="11" disabled="disabled" autocomplete="off" onkeyup="commonXocdia.onChangeInputValidate(this);" onfocus="commonXocdia.onFocus(this);" onblur="commonXocdia.onBlur(this);" type="text" value="0">
+                </p>
+            </div>
+            <div class="column-number">
+                <p class="row-2">
+                    <input id="xdbetpersonUnder" maxlength="11" disabled="disabled" autocomplete="off" onkeyup="commonXocdia.onChangeInputValidate(this);" onfocus="commonXocdia.onFocus(this);" onblur="commonXocdia.onBlur(this);" type="text" value="0">
+                </p>
+            </div>
+        </div>
+        <ul class="list-dice-small" id="xd_gamehisId"></ul>
+        <div class="setfast" id="xocdiasetfastID" style="display: none">
+            <ul class="numfast">
+                <li onclick="commonXocdia.onClickBetfast(1000);">1.000</li>
+                <li onclick="commonXocdia.onClickBetfast(5000);">5.000</li>
+                <li onclick="commonXocdia.onClickBetfast(10000);">10.000</li>
+                <li onclick="commonXocdia.onClickBetfast(100000);">100.000</li>
+                <li onclick="commonXocdia.onClickBetfast(500000);">500k</li>
+                <li onclick="commonXocdia.onClickBetfast(1000000);">1M</li>
+                <li onclick="commonXocdia.onClickBetfast(5000000);">5M</li>
+                <li onclick="commonXocdia.onClickBetfast(10000000);">10M</li>
+                <li onclick="commonXocdia.onClickBetfast(100000000);">100M</li>
+                <li onclick="commonXocdia.onClickBetfast(-1);">Tất tay</li>
+            </ul>
+            <ul class="numfast_other" style="display: none">
+                <li onclick="commonXocdia.onClickBetfastOther(1);">1</li>
+                <li onclick="commonXocdia.onClickBetfastOther(2);">2</li>
+                <li onclick="commonXocdia.onClickBetfastOther(3);">3</li>
+                <li onclick="commonXocdia.onClickBetfastOther(4);">4</li>
+                <li onclick="commonXocdia.onClickBetfastOther(5);">5</li>
+                <li onclick="commonXocdia.onClickBetfastOther(6);">6</li>
+                <li onclick="commonXocdia.onClickBetfastOther(7);">7</li>
+                <li onclick="commonXocdia.onClickBetfastOther(8);">8</li>
+                <li onclick="commonXocdia.onClickBetfastOther(9);">9</li>
+                <li onclick="commonXocdia.onClickBetfastOther(0);">0</li>
+                <li onclick="commonXocdia.onClickBetfastOther(-2);">.000</li>
+                <li onclick="commonXocdia.onClickBetfastOther(-1);"></li>
+            </ul>
+
+            <div class="bt_shortcutkey" onclick="commonXocdia.onClickTabfast()"></div>
+            <div class="bt_fastOk" onclick="commonXocdia.postBet()"></div>
+            <div class="bt_fastCancel" onclick="commonXocdia.onClickcancelfast();"></div>
+
+        </div>
+
+
+
+        <div class="messageXd"></div>
+
+
+
+    </div>
+
+
+
+</div>

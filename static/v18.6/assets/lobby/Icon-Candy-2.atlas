@@ -1,0 +1,265 @@
+
+Icon-Candy-2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 2, 458
+  size: 216, 135
+  orig: 216, 135
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 595
+  size: 286, 280
+  orig: 286, 280
+  offset: 0, 0
+  index: -1
+fx-26/fx-26_0000s_0005_Layer-35
+  rotate: false
+  xy: 290, 725
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx-26/fx-26_0000s_0006_Layer-34
+  rotate: false
+  xy: 2, 306
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx-26/fx-26_0000s_0007_Layer-33
+  rotate: false
+  xy: 442, 725
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx-26/fx-26_0000s_0008_Layer-32
+  rotate: false
+  xy: 2, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx-26/fx-26_0000s_0009_Layer-31
+  rotate: false
+  xy: 594, 725
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx-26/fx-26_0000s_0010_Layer-30
+  rotate: false
+  xy: 2, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx-26/fx-26_0000s_0011_Layer-29
+  rotate: false
+  xy: 746, 725
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx-26/fx-26_0000s_0012_Layer-28
+  rotate: false
+  xy: 898, 725
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx-26/fx-26_0000s_0013_Layer-27
+  rotate: false
+  xy: 1050, 725
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx-26/fx-26_0000s_0014_Layer-26
+  rotate: false
+  xy: 1202, 725
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx-26/fx-26_0000s_0015_Layer-25
+  rotate: false
+  xy: 1354, 725
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx-26/fx-26_0000s_0016_Layer-24
+  rotate: false
+  xy: 1506, 725
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx-26/fx-26_0000s_0017_Layer-23
+  rotate: false
+  xy: 1658, 725
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx-26/fx-26_0000s_0018_Layer-22
+  rotate: false
+  xy: 1810, 725
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx-26/fx-26_0000s_0019_Layer-21
+  rotate: false
+  xy: 290, 573
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx-26/fx-26_0000s_0020_Layer-20
+  rotate: false
+  xy: 442, 573
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx-26/fx-26_0000s_0021_Layer-19
+  rotate: false
+  xy: 594, 573
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx-26/fx-26_0000s_0022_Layer-18
+  rotate: false
+  xy: 746, 573
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx-26/fx-26_0000s_0023_Layer-17
+  rotate: false
+  xy: 898, 573
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx-26/fx-26_0000s_0024_Layer-16
+  rotate: false
+  xy: 1050, 573
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx-26/fx-26_0000s_0025_Layer-15
+  rotate: false
+  xy: 1202, 573
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx-26/fx-26_0000s_0026_Layer-14
+  rotate: false
+  xy: 1354, 573
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx-26/fx-26_0000s_0027_Layer-13
+  rotate: false
+  xy: 1506, 573
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx-26/fx-26_0000s_0028_Layer-12
+  rotate: false
+  xy: 1658, 573
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx-26/fx-26_0000s_0029_Layer-11
+  rotate: false
+  xy: 1810, 573
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx-26/fx-26_0000s_0030_Layer-10
+  rotate: false
+  xy: 154, 306
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx-26/fx-26_0000s_0031_Layer-9
+  rotate: false
+  xy: 154, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx-26/fx-26_0000s_0032_Layer-8
+  rotate: false
+  xy: 154, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx-26/fx-26_0000s_0033_Layer-7
+  rotate: false
+  xy: 306, 421
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx-26/fx-26_0000s_0034_Layer-6
+  rotate: false
+  xy: 306, 269
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx-26/fx-26_0000s_0035_Layer-5
+  rotate: false
+  xy: 458, 421
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx-26/fx-26_0000s_0036_Layer-4
+  rotate: false
+  xy: 306, 117
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx-26/fx-26_0000s_0037_Layer-3
+  rotate: false
+  xy: 458, 269
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx-26/fx-26_0000s_0038_Layer-2
+  rotate: false
+  xy: 610, 421
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+fx-26/fx-26_0000s_0039_Layer-1
+  rotate: false
+  xy: 458, 117
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1

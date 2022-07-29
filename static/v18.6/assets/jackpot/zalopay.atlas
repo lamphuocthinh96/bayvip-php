@@ -1,0 +1,69 @@
+
+zalopay.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fire 09_Loop_00000
+  rotate: false
+  xy: 2, 214
+  size: 519, 341
+  orig: 519, 341
+  offset: 0, 0
+  index: -1
+Fire 09_Loop_00001
+  rotate: false
+  xy: 2, 557
+  size: 524, 347
+  orig: 524, 347
+  offset: 0, 0
+  index: -1
+Fire 09_Loop_00002
+  rotate: false
+  xy: 1511, 201
+  size: 465, 348
+  orig: 465, 348
+  offset: 0, 0
+  index: -1
+Fire 09_Loop_00003
+  rotate: false
+  xy: 1024, 197
+  size: 485, 353
+  orig: 485, 353
+  offset: 0, 0
+  index: -1
+Fire 09_Loop_00004
+  rotate: false
+  xy: 1537, 551
+  size: 495, 353
+  orig: 495, 353
+  offset: 0, 0
+  index: -1
+Fire 09_Loop_00005
+  rotate: false
+  xy: 528, 203
+  size: 494, 355
+  orig: 494, 355
+  offset: 0, 0
+  index: -1
+Fire 09_Loop_00006
+  rotate: false
+  xy: 1038, 552
+  size: 497, 352
+  orig: 497, 352
+  offset: 0, 0
+  index: -1
+Fire 09_Loop_00007
+  rotate: false
+  xy: 528, 560
+  size: 508, 344
+  orig: 508, 344
+  offset: 0, 0
+  index: -1
+Group 207
+  rotate: false
+  xy: 2, 2
+  size: 375, 210
+  orig: 375, 210
+  offset: 0, 0
+  index: -1

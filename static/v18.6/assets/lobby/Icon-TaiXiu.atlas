@@ -1,0 +1,41 @@
+
+Icon-TaiXiu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Icon-TaiXiu/2
+  rotate: false
+  xy: 290, 314
+  size: 154, 143
+  orig: 154, 143
+  offset: 0, 0
+  index: -1
+Icon-TaiXiu/3
+  rotate: false
+  xy: 2, 2
+  size: 166, 176
+  orig: 166, 176
+  offset: 0, 0
+  index: -1
+Icon-TaiXiu/Taxi/1
+  rotate: false
+  xy: 2, 180
+  size: 286, 277
+  orig: 286, 277
+  offset: 0, 0
+  index: -1
+Icon-TaiXiu/Taxi/5
+  rotate: false
+  xy: 170, 115
+  size: 98, 63
+  orig: 98, 63
+  offset: 0, 0
+  index: -1
+Icon-TaiXiu/Taxi/6
+  rotate: false
+  xy: 290, 250
+  size: 99, 62
+  orig: 99, 62
+  offset: 0, 0
+  index: -1
